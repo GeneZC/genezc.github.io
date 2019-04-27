@@ -2,122 +2,37 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Recent activities](./recent.html).
 
-[Link to another page](./another-page.html).
+## About me
 
-There should be whitespace between paragraphs.
+I am currently a senior undergraduate student pursuing Bachelor's Degree in Automation in [Beijing Institute of Technology](http://www.bit.edu.cn/).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+My up-to-date curriculum vitae is available [here](./assets/file/chenzhang_cv.pdf) and you can contact me via [email](mailto:gene_zhangchen@163.com).
 
-# Header 1
+### Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* Sep. 2015 - Present (expected July 2019), B.Eng., Beijing Institute of Technology, School of Automation.
 
-## Header 2
+### Research interests
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+My research interests lie in the general area of Artificial Intelligence, particularly in Game Theory, Deep Learning and Reinforcement Learning, Quantum Language Modeling, as well as their applications in Game AI, Natural Language Processing and Information Retrieval.
 
-### Header 3
+### Publications & Manuscripts
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* **Chen Zhang**, Qiuchi Li and Dawei. **SongSyntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2019**, Short). To appear
+* **Chen Zhang**, Hong Huang, Zhouyu Zhang and Shicong Liu. **Optimization of VCDTS Algorithm in Connect6 Game.** In Proceedings of the 30th Chinese Control and Decision Conference (**CCDC 2018**). [[pdf]](./assets/file/connect6_adts.pdf)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Honors & Awards
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+* **Bronze Medal** in the Conference on Technologies and Applications of Artificial Intelligence
+(TAAI 2018) Game Tournament, Connect6. 2018
+* **Excellent Prize** in International Collegiate Competition for Brain-inspired Computing. 2018
+* **Bronze Medal** in China Undergraduate Computer Games Competition, NoGo. 2018
+* **Gold Medal** in China Undergraduate Computer Games Competition, Connect6. 2017, 2018
+* **Third Prize** in China University Robot Competition - Robocon, as a member of Robot Team at Beijing Institute of Technology. 2018
+* **Third Prize** in Beijing Undergraduate Electronics Design Contest. 2018
+* **Third Prize** in China Undergraduate English Contest. 2017
+* **Second Prize** in BIT Century Cup Contest, Extracurricular Academic and Technical Works. 2017,
+2018
+* **First Prize** in China Undergraduate Mathematical Contest in Modeling, Beijing Division. 2016
