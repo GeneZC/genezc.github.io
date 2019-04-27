@@ -20,8 +20,8 @@ My research interests lie in the general area of Artificial Intelligence, partic
 
 ### Publications & Manuscripts
 
-* **Chen Zhang**, Qiuchi Li and Dawei Song. **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2019**, Short). To appear
-* **Chen Zhang**, Hong Huang, Zhouyu Zhang and Shicong Liu. **Optimization of VCDTS Algorithm in Connect6 Game.** In Proceedings of the 30th Chinese Control and Decision Conference (**CCDC 2018**). [[pdf]](https://ieeexplore.ieee.org/iel7/8396318/8407034/08408300.pdf)
+* **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and Dawei Song. **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2019**, Short). To appear
+* **Chen Zhang**, Hong Huang, Zhouyu Zhang and [Shicong Liu](https://psycholsc.github.io). **Optimization of VCDTS Algorithm in Connect6 Game.** In Proceedings of the 30th Chinese Control and Decision Conference (**CCDC 2018**). [[pdf]](https://ieeexplore.ieee.org/iel7/8396318/8407034/08408300.pdf)
 
 ### Honors & Awards
 

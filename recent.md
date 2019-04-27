@@ -6,7 +6,7 @@ layout: default
 
 ### Life
 
-* October, 2019. I will continue my Master Degree's study in Beijing Institute of Technology majoring in Computer Science and Technology.
+* October, 2019. I will continue my Master Degree's study in Beijing Institute of Technology in Computer Science and Technology, supervised by Dawei Song.
 
 ### Research
 
