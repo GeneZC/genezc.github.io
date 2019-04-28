@@ -8,7 +8,7 @@ I am currently a senior undergraduate student pursuing Bachelor's Degree in Auto
 
 My up-to-date curriculum vitae is available [here](./assets/file/chenzhang_cv.pdf) and you can contact me via [email](mailto:gene_zhangchen@163.com).
 
-[Recent activities](./recent.html).
+[Recent activities](./recent).
 
 ### Education
 
