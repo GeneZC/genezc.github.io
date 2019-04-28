@@ -4,6 +4,8 @@ layout: default
 
 ## Recent news
 
+Something about my life, about my research.
+
 ### Life
 
 * October, 2019. I will continue my Master Degree's study in Beijing Institute of Technology in Computer Science and Technology, supervised by Dawei Song.
