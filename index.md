@@ -2,13 +2,13 @@
 layout: default
 ---
 
-[Recent activities](./recent.html).
-
 ## About me
 
 I am currently a senior undergraduate student pursuing Bachelor's Degree in Automation in [Beijing Institute of Technology](http://www.bit.edu.cn/).
 
 My up-to-date curriculum vitae is available [here](./assets/file/chenzhang_cv.pdf) and you can contact me via [email](mailto:gene_zhangchen@163.com).
+
+[Recent activities](./recent.html).
 
 ### Education
 
