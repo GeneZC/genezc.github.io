@@ -4,7 +4,7 @@ layout: default
 
 ## Recent news
 
-Life is like a box of chocolate.you never know what you're gonna get next. Something about my life, about my research. 
+Life is like a box of chocolate, you never know what you're gonna get next. Something about my life, about my research. 
 
 ### Life
 
