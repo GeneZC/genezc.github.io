@@ -25,6 +25,7 @@ My research interests lie in the general area of Artificial Intelligence, partic
 
 ### Honors & Awards
 
+* **SIGIR Student Travel Grant** by SIGIR. 2019
 * **Bronze Medal** in the Conference on Technologies and Applications of Artificial Intelligence
 (TAAI 2018) Game Tournament, Connect6. 2018
 * **Excellent Prize** in International Collegiate Competition for Brain-inspired Computing. 2018
