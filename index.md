@@ -12,7 +12,7 @@ My up-to-date curriculum vitae is available [here](./assets/file/chenzhang_cv.pd
 
 ### Education
 
-* Sep. 2015 - Present (expected July 2019), B.Eng., Beijing Institute of Technology, School of Automation.
+* Sep. 2015 - July 2019, B.Eng., Beijing Institute of Technology, School of Automation.
 
 ### Research interests
 
@@ -20,11 +20,13 @@ My research interests lie in the general area of Artificial Intelligence, partic
 
 ### Publications & Manuscripts
 
-* **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and Dawei Song. **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2019**, Short). To appear
-* **Chen Zhang**, Hong Huang, Zhouyu Zhang and [Shicong Liu](https://psycholsc.github.io). **Optimization of VCDTS Algorithm in Connect6 Game.** In Proceedings of the 30th Chinese Control and Decision Conference (**CCDC 2018**). [[pdf]](https://ieeexplore.ieee.org/iel7/8396318/8407034/08408300.pdf)
+* **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and Dawei Song. **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2019**, Short). [[paper]](https://dl.acm.org/citation.cfm?id=3331351)[[poster]](./assets/file/SIGIR2019_POSTER.pdf)
+* **Chen Zhang**, Hong Huang, Zhouyu Zhang and [Shicong Liu](https://psycholsc.github.io). **Optimization of VCDTS Algorithm in Connect6 Game.** In Proceedings of the 30th Chinese Control and Decision Conference (**CCDC 2018**). [[paper]](https://ieeexplore.ieee.org/iel7/8396318/8407034/08408300.pdf)
 
 ### Honors & Awards
 
+* **Excellent undegradudate thesis**, Beijing Institute of Technology. 2019
+* **Excellent undergraduate**, Beijing Institute of Technology. 2019
 * **SIGIR Student Travel Grant** by SIGIR. 2019
 * **Bronze Medal** in the Conference on Technologies and Applications of Artificial Intelligence
 (TAAI 2018) Game Tournament, Connect6. 2018
