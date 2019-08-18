@@ -16,7 +16,7 @@ My up-to-date curriculum vitae is available [here](./assets/file/chenzhang_cv.pd
 
 ### Research interests
 
-My research interests lie in the general area of Artificial Intelligence, particularly in Game Theory, Deep Learning Reinforcement Learning and Quantum Language Modelling, as well as their applications in Game AI, Natural Language Processing and Information Retrieval.
+My research interests lie in the general area of Artificial Intelligence, particularly in Game Theory, Deep Learning, Reinforcement Learning and Quantum Language Modelling, as well as their applications in Game AI, Natural Language Processing and Information Retrieval.
 
 ### Publications & Manuscripts
 
