@@ -16,7 +16,7 @@ My up-to-date curriculum vitae is available [here](./assets/file/chenzhang_cv.pd
 
 ### Research interests
 
-My research interests lie in the general area of Artificial Intelligence, particularly in Game Theory, Deep Learning and Reinforcement Learning, Quantum Language Modeling, as well as their applications in Game AI, Natural Language Processing and Information Retrieval.
+My research interests lie in the general area of Artificial Intelligence, particularly in Game Theory, Deep Learning Reinforcement Learning and Quantum Language Modelling, as well as their applications in Game AI, Natural Language Processing and Information Retrieval.
 
 ### Publications & Manuscripts
 
@@ -25,11 +25,13 @@ My research interests lie in the general area of Artificial Intelligence, partic
 
 ### Honors & Awards
 
+* **Broze Medal** in the International Computer Games Association (ICGA) Computer Olympiad, NoGo. 2019.
+* **Broze Medal** in the International Computer Games Association (ICGA) Computer Olympiad, Connect6. 2019.
 * **Excellent undegradudate thesis**, Beijing Institute of Technology. 2019
 * **Excellent undergraduate**, Beijing Institute of Technology. 2019
 * **SIGIR Student Travel Grant** by SIGIR. 2019
 * **Bronze Medal** in the Conference on Technologies and Applications of Artificial Intelligence
-(TAAI 2018) Game Tournament, Connect6. 2018
+(TAAI) Game Tournament, Connect6. 2018
 * **Excellent Prize** in International Collegiate Competition for Brain-inspired Computing. 2018
 * **Bronze Medal** in China Undergraduate Computer Games Competition, NoGo. 2018
 * **Gold Medal** in China Undergraduate Computer Games Competition, Connect6. 2017, 2018
