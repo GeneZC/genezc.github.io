@@ -8,6 +8,7 @@ Life is like a box of chocolates, you never know what you're going to get next.
 
 ### Life
 
+* September, 2019. Start my Master Degree's study.
 * June, 2019. Graduation !
 * October, 2019. I will continue my Master Degree's study in Beijing Institute of Technology in Computer Science and Technology, supervised by Dawei Song.
 
