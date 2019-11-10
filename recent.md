@@ -6,6 +6,7 @@ layout: default
 
 Life is like a box of chocolates, you never know what you're going to get next.
 
+* November 3rd -- 7th, 2019. Attended EMNLP2019 and gave an oral presentation of our work.
 * September, 2019. Started my Master Degree's study in Beijing Institute of Technology under the supervision of Dawei Song.
 * August 14th -- 15th, 2019. Attended the ICGA Computer Olympiad and got two medals.
 * August 13th, 2019. One paper got accepted to [EMNLP2019](https://www.emnlp-ijcnlp2019.org/).
