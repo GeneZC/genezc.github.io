@@ -4,14 +4,12 @@ layout: default
 
 ## About Me
 
-I am currently a Master student in Department of Computer Science & Technology, [Beijing Institute of Technology](http://www.bit.edu.cn/). My advisor is Prof. [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). I also work closely with Dr. [Qiuchi Li](https://qiuchili.github.io), Dr. [Benyou Wang](https://wabyking.github.io/old).
+I am currently a Master's student in Department of Computer Science & Technology, [Beijing Institute of Technology](http://www.bit.edu.cn/). My advisor is Prof. [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). I also work closely with Dr. [Qiuchi Li](https://qiuchili.github.io), Dr. [Benyou Wang](https://wabyking.github.io/old).
 
-My email is gene_zhangchen\[at\]163.com.
+Contact me via gene_zhangchen#163.com (replace # with @).
 
 ### Recent Activities
 
-* March, 2019. Invited to be part of program committee of [EMNLP 2020](https://2020.emnlp.org/).
-* Dec., 2019. Invited to be part of program committee of [ACL 2020](https://acl2020.org/).
 * Nov. 3rd -- 7th, 2019. Attended EMNLP 2019 in Hong Kong and gave an oral presentation of our work.
 * Aug. 14th -- 15th, 2019. Attended the ICGA Computer Olympiad (in conjunction with IJCAI 2019 in Macao) and got two medals.
 * Aug. 13th, 2019. One long paper got accepted to [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/).
@@ -26,14 +24,14 @@ My email is gene_zhangchen\[at\]163.com.
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly in information extraction, social computing, and opinion mining with neural models.
+My current research interests lie in the general area of natural language processing, particularly in opinion mining with neural models.
 
 ### Experiences
 
 * Program Committee member (or Reviewer): ACL 2020, EMNLP 2020.
 * July 2019 - Sep. 2019, Research intern, Zhejiang Lab.
 
-### Publications & Manuscripts
+### Publications & Manuscripts [[Google Scholar]](https://scholar.google.com/citations?user=IMwAXWcAAAAJ&hl=zh-CN)[[Semantic Scholar]](https://www.semanticscholar.org/author/Chen-Zhang/145107889)
 
 * **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks.** In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2019**, Long, Oral). [[preprint]](https://arxiv.org/abs/1909.03477)[[paper]](https://www.aclweb.org/anthology/D19-1464/)[[slides]](./assets/file/EMNLP2019-Oral.pdf)[[code]](https://github.com/GeneZC/ASGCN)
 * **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2019**, Short). [[preprint]](https://arxiv.org/abs/1909.10171)[[paper]](https://dl.acm.org/citation.cfm?id=3331351)[[poster]](./assets/file/SIGIR2019-Poster.pdf)[[code]](https://github.com/GeneZC/PWCN)
@@ -41,10 +39,10 @@ My current research interests lie in the general area of natural language proces
 
 ### Selected Honors & Awards
 
-* **Excellent Undergraduate Thesis**, Beijing Institute of Technology. 2019.
-* **Excellent Undergraduate**, Beijing Institute of Technology. 2019.
+* **Excellent Undergraduate Thesis** in Beijing Institute of Technology. 2019.
+* **Excellent Undergraduate** in Beijing Institute of Technology. 2019.
 * **SIGIR Student Travel Grant** by SIGIR. 2019.
 * **Excellent Prize** in International Collegiate Competition for Brain-inspired Computing. 2018.
 * *A Few* **Medals** from Chinese (CCGC) and International (TAAI, ICGA) Computer Games Competition. 2017, 2018, 2019.
-* **Third Prize** in China University Robot Competition - Robocon, as a member of Robot Team at Beijing Institute of Technology. 2018.
+* **Third Prize** in China University Robot Competition (ROBOCON), as a member of Robot Team at Beijing Institute of Technology. 2018.
 * **First Prize** in China Undergraduate Mathematical Contest in Modeling, Beijing Division. 2016.
