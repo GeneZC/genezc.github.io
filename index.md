@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am currently a Master's student in Department of Computer Science & Technology, [Beijing Institute of Technology](http://www.bit.edu.cn/). My advisor is Prof. [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). I also work closely with Dr. [Qiuchi Li](https://qiuchili.github.io), Dr. [Benyou Wang](https://wabyking.github.io/old).
+I am currently a Master student majoring in Computer Science. My advisor is Prof. [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). I also enjoy in working with Dr. [Qiuchi Li](https://qiuchili.github.io) and Dr. [Benyou Wang](https://wabyking.github.io/old).
 
 Contact me via gene_zhangchen#163.com (replace # with @).
 
@@ -19,23 +19,26 @@ Contact me via gene_zhangchen#163.com (replace # with @).
 
 ### Education
 
-* Sep. 2019 - Present, M.Eng., Beijing Institute of Technology, School of Computer Science.
-* Sep. 2015 - July 2019, B.Eng., Beijing Institute of Technology, School of Automation.
+* Sep. 2019 - Present, M.Eng. in Computer Science, Beijing Institute of Technology.
+* Sep. 2015 - July 2019, B.Eng. in Electrical Engineering , Beijing Institute of Technology.
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly in opinion mining with neural models.
+My current research interests lie in the general area of natural language processing, particularly
+in neural opinion mining. Recently, I focus on improving classification performance, especially in
+terms of distributional robustness and out-of-distribution generalization, under the framework of data augmentation
+and transfer learning. Prior to devoting myself to natural language processing, I did a variety of
+work on game AI.
 
 ### Experiences
 
 * Program Committee member (or Reviewer): ACL 2020, EMNLP 2020.
-* July 2019 - Sep. 2019, Research intern, Zhejiang Lab.
+* July 2019 - Sep. 2019, Research Intern, Zhejiang Lab.
 
 ### Publications & Manuscripts [[Google Scholar]](https://scholar.google.com/citations?user=IMwAXWcAAAAJ&hl=zh-CN)[[Semantic Scholar]](https://www.semanticscholar.org/author/Chen-Zhang/145107889)
 
 * **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks.** In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2019**, Long, Oral). [[preprint]](https://arxiv.org/abs/1909.03477)[[paper]](https://www.aclweb.org/anthology/D19-1464/)[[slides]](./assets/file/EMNLP2019-Oral.pdf)[[code]](https://github.com/GeneZC/ASGCN)
 * **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2019**, Short). [[preprint]](https://arxiv.org/abs/1909.10171)[[paper]](https://dl.acm.org/citation.cfm?id=3331351)[[poster]](./assets/file/SIGIR2019-Poster.pdf)[[code]](https://github.com/GeneZC/PWCN)
-* **Chen Zhang**, Hong Huang, Zhouyu Zhang and [Shicong Liu](https://psycholsc.github.io). **Optimization of VCDTS Algorithm in Connect6 Game.** In Proceedings of the 30th Chinese Control and Decision Conference (**CCDC 2018**). [[paper]](https://ieeexplore.ieee.org/iel7/8396318/8407034/08408300.pdf)
 
 ### Selected Honors & Awards
 
