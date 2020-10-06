@@ -2,5 +2,5 @@ title: Chen Zhang
 favicon: /assets/img/favicon.ico
 profile: /assets/img/profile.jpg
 description: Beijing Institute of Technology
-google_analytics: True
+google_analytics: 
 theme: jekyll-theme-minimal
