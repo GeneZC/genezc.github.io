@@ -10,6 +10,7 @@ Contact me via gene_zhangchen#163.com (replace # with @).
 
 ### Recent Activities
 
+* Sep. 14th, 2020. One long paper got accepted to Findings of [EMNLP 2020](https://2020.emnlp.org/).
 * Nov. 3rd -- 7th, 2019. Attended EMNLP 2019 in Hong Kong and gave an oral presentation of our work.
 * Aug. 14th -- 15th, 2019. Attended the ICGA Computer Olympiad (in conjunction with IJCAI 2019 in Macao) and got two medals.
 * Aug. 13th, 2019. One long paper got accepted to [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/).
@@ -26,17 +27,19 @@ Contact me via gene_zhangchen#163.com (replace # with @).
 
 My current research interests lie in the general area of natural language processing, particularly
 in neural opinion mining. Recently, I focus on improving classification performance, especially in
-terms of distributional robustness and out-of-distribution generalization, under the framework of data augmentation
-and transfer learning. Prior to devoting myself to natural language processing, I did a variety of
+terms of robustness and out-of-distribution generalization. Prior to devoting myself to natural language processing, I did a variety of
 work on game AI.
 
 ### Experiences
 
-* Program Committee member (or Reviewer): ACL 2020, EMNLP 2020.
 * July 2019 - Sep. 2019, Research Intern, Zhejiang Lab.
+* Reviewer: ACL 2020, EMNLP 2020.
+* Secondary Reviewer: ICTIR 2020, WSDM 2020.
+* Conference Volunteer: EMNLP 2020.
 
 ### Publications & Manuscripts [[Google Scholar]](https://scholar.google.com/citations?user=IMwAXWcAAAAJ&hl=zh-CN)[[Semantic Scholar]](https://www.semanticscholar.org/author/Chen-Zhang/145107889)
 
+* **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io), [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm) and [Benyou Wang](https://wabyking.github.io/old). **A Multi-task Learning Framework for Opinion Triplet Extraction.** To appear in the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**, Long, Findings). [[preprint]](https://arxiv.org/abs/2010.01512)[[code]](https://github.com/GeneZC/OTE-MTL)
 * **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks.** In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2019**, Long, Oral). [[preprint]](https://arxiv.org/abs/1909.03477)[[paper]](https://www.aclweb.org/anthology/D19-1464/)[[slides]](./assets/file/EMNLP2019-Oral.pdf)[[code]](https://github.com/GeneZC/ASGCN)
 * **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** In Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2019**, Short). [[preprint]](https://arxiv.org/abs/1909.10171)[[paper]](https://dl.acm.org/citation.cfm?id=3331351)[[poster]](./assets/file/SIGIR2019-Poster.pdf)[[code]](https://github.com/GeneZC/PWCN)
 
