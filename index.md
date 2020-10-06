@@ -37,7 +37,7 @@ work on game AI.
 * Secondary Reviewer: ICTIR 2020, WSDM 2020.
 * Conference Volunteer: EMNLP 2020.
 
-### Publications & Manuscripts [<img src="./assets/img/google.ico" width="16" height="16" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/img/semantic.ico" width="16" height="16" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889)
+### Publications & Manuscripts [<img src="./assets/img/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/img/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889)
 
 * **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io), [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm) and [Benyou Wang](https://wabyking.github.io/old). **A Multi-task Learning Framework for Opinion Triplet Extraction.** To appear in the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**, Long, Findings). [[preprint]](https://arxiv.org/abs/2010.01512)[[code]](https://github.com/GeneZC/OTE-MTL)
 * **Chen Zhang**, [Qiuchi Li](https://qiuchili.github.io) and [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks.** In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2019**, Long, Oral). [[preprint]](https://arxiv.org/abs/1909.03477)[[paper]](https://www.aclweb.org/anthology/D19-1464/)[[slides]](./assets/file/EMNLP2019-Oral.pdf)[[code]](https://github.com/GeneZC/ASGCN)
