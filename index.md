@@ -29,7 +29,7 @@ My current research interests lie in the general area of natural language proces
 
 ### Experiences
 
-* Nov. 2020 - Present, Research Intern, DAMO Academy- Alibaba.
+* Nov. 2020 - Present, Research Intern, Alibaba DAMO Academy.
 * July 2019 - Sep. 2019, Research Intern, Zhejiang Lab.
 * Reviewer: ACL 2020.
 * Secondary Reviewer: ICTIR 2020, WSDM 2020, AAAI 2021.
