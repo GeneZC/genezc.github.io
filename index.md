@@ -4,7 +4,7 @@ layout: default
 
 ### About Me
 
-I am currently a Master student majoring in Computer Science. My advisor is Prof. [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). I also enjoy in working with Dr. [Qiuchi Li](https://qiuchili.github.io) and Dr. [Benyou Wang](https://wabyking.github.io/old).
+I am currently a Master student majoring in Computer Science. My advisor is Prof. [Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). I previously worked closely with Dr. [Qiuchi Li](https://qiuchili.github.io) and Dr. [Benyou Wang](https://wabyking.github.io/old) on quantum-inspired neural models.
 
 Contact me via gene_zhangchen#163.com (replace # with @).
 
@@ -25,12 +25,12 @@ Contact me via gene_zhangchen#163.com (replace # with @).
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly in fine-grained opinion mining. Recently, I focus on robust opinion mining, especially in terms of adversarial and distributional robustness. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
+My current research interests lie in the general area of natural language processing, particularly in fine-grained opinion understanding. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
 
 ### Experiences
 
-* Nov. 2020 - Present, Research Intern, Alibaba DAMO Academy.
-* July 2019 - Sep. 2019, Research Intern, Zhejiang Lab.
+* Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO Academy.
+* July 2019 - Aug. 2019, Research Intern, Zhejiang Lab.
 * Reviewer: ACL 2020.
 * Secondary Reviewer: ICTIR 2020, WSDM 2020, AAAI 2021.
 * Conference Volunteer: EMNLP 2019.
