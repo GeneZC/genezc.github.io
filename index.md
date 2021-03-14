@@ -10,6 +10,7 @@ Contact me via gene_zhangchen#163.com (replace # with @).
 
 ### Recent Activities
 
+* Jan., 2021. Awarded with XIAOMI scholarship.
 * Sep. 14th, 2020. One long paper got accepted to Findings of [EMNLP 2020](https://2020.emnlp.org/papers).
 * Nov. 3rd -- 7th, 2019. Attended EMNLP 2019 in Hong Kong and gave an oral presentation of our work.
 * Aug. 14th -- 15th, 2019. Attended the ICGA Computer Olympiad (in conjunction with IJCAI 2019 in Macao) and got two medals.
@@ -43,6 +44,7 @@ My current research interests lie in the general area of natural language proces
 
 ### Selected Honors & Awards
 
+* **XIAOMI scholarship**. 2021.
 * **Excellent Undergraduate Thesis** in Beijing Institute of Technology. 2019.
 * **Excellent Undergraduate** in Beijing Institute of Technology. 2019.
 * **SIGIR Student Travel Grant** by SIGIR. 2019.
