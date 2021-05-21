@@ -34,8 +34,8 @@ My current research interests lie in the general area of natural language proces
 * March 2021 - Present, Research Intern, NLP center of Meituan.
 * Nov. 2020 - Feb. 2021, Research Intern, Conversational AI team of Alibaba DAMO Academy.
 * July 2019 - Aug. 2019, Research Intern, Zhejiang Lab.
-* Reviewer: ACL 2020, EMNLP 2020-2021, NAACL 2021.
-* Secondary Reviewer: ICTIR 2020, WSDM 2020, AAAI 2021, SIGIR 2021.
+* Reviewer: ACL 2020-2021, EMNLP 2020-2021, NAACL 2021.
+* Secondary Reviewer: ICTIR 2020, WSDM 2020, AAAI 2021, TOIS, SIGIR 2021.
 * Conference Volunteer: EMNLP 2019.
 
 ### Publications & Manuscripts [<img src="./assets/img/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/img/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889)
