@@ -20,14 +20,14 @@ You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) lightweight and indexable pre-trained language models, and 3) generalization/robustness. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
+My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) generalization and accelaration of pre-trained language models. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
 
 ### Experiences
 
 * Mar. 2021 - Present, Research Intern, Meituan NLP Center.
 * Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO Academy.
 * July 2019 - Aug. 2019, Research Intern, Zhejiang Lab.
-* Reviewer: ACL 2020-2022, EMNLP 2020-2021, NAACL 2021.
+* Reviewer: ACL 2020-2022, EMNLP 2020-2021, NAACL 2021-2022, ARR.
 * Secondary Reviewer: ICTIR 2020, WSDM 2020, AAAI 2021, TOIS, SIGIR 2021, CIKM 2021.
 * Conference Volunteer: EMNLP 2019.
 
@@ -42,7 +42,7 @@ My current research interests lie in the general area of natural language proces
 
 ### Selected Honors & Awards
 
-* Elite Ph.D. Program at BIT. 2021.
+* **Elite Ph.D. Program** at BIT. 2021.
 * **XIAOMI scholarship**. 2021.
 * **Excellent Undergraduate Thesis** in Beijing Institute of Technology. 2019.
 * **Excellent Undergraduate** in Beijing Institute of Technology. 2019.
