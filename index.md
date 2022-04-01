@@ -6,8 +6,10 @@ layout: default
 
 You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
-### Recent Activities
+### Recent Highlights
 
+* Mar. 31st, 2022. One long paper got accepted to SIGIR 2022.
+* Dec. 27th, 2021. Help to develope *WenJin*, which has reached the first place on [CLUE classification benchmark](https://www.cluebenchmarks.com/classification.html).
 * Nov. 29th, 2021. Glad to join the Elite Ph.D. Program at BIT.
 * Oct. 15th, 2021. Attended NLPCC 2021 and gave an oral presentation online.
 * July 30th, 2021. One regular paper got accepted to [NLPCC 2021](http://tcci.ccf.org.cn/conference/2021/).
@@ -20,7 +22,7 @@ You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) generalization and accelaration of pre-trained language models. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
+My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) generalization and accelaration of pretrained language models. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
 
 ### Experiences
 
