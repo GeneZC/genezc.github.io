@@ -4,12 +4,12 @@ layout: default
 
 ### About Me
 
-You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
+A Ph.D. student in Beijing Institute of Technology. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Recent Highlights
 
 * Mar. 31st, 2022. One long paper got accepted to SIGIR 2022.
-* Dec. 27th, 2021. Help to develope *WenJin*, which has reached the first place on [CLUE classification benchmark](https://www.cluebenchmarks.com/classification.html).
+* Dec. 27th, 2021. Help to develope *WenJin*, which has reached the first place (as of the time) on [CLUE classification benchmark](https://www.cluebenchmarks.com/classification.html).
 * Nov. 29th, 2021. Glad to join the Elite Ph.D. Program at BIT.
 * Oct. 15th, 2021. Attended NLPCC 2021 and gave an oral presentation online.
 * July 30th, 2021. One regular paper got accepted to [NLPCC 2021](http://tcci.ccf.org.cn/conference/2021/).
@@ -26,11 +26,11 @@ My current research interests lie in the general area of natural language proces
 
 ### Experiences
 
-* Mar. 2021 - Present, Research Intern, Meituan NLP Center.
-* Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO Academy.
+* Mar. 2021 - Present, Research Intern, Meituan NLP.
+* Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO.
 * July 2019 - Aug. 2019, Research Intern, Zhejiang Lab.
-* Reviewer: ACL 2020-2022, EMNLP 2020-2021, NAACL 2021-2022, ARR.
-* Secondary Reviewer: ICTIR 2020, WSDM 2020, AAAI 2021, TOIS, SIGIR 2021, CIKM 2021.
+* Reviewer: ACL, EMNLP, NAACL, SIGIR.
+* Secondary Reviewer: WSDM, CIKM, ICTIR, TOIS, AAAI.
 * Conference Volunteer: EMNLP 2019.
 
 ### Publications & Manuscripts [<img src="./assets/img/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/img/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
