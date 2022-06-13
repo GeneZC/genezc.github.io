@@ -4,7 +4,7 @@ layout: default
 
 ### About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) and [Prof. Benyou Wang](https://wabyking.github.io/old) broadly on various topics. I also collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) on and [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) on generalization and accelaration of pre-trained language models at Meituna NLP. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) and [Prof. Benyou Wang](https://wabyking.github.io/old) broadly on various topics. I also collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) on and [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) on generalization and accelaration of pretrained language models at Meituan NLP. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Recent Highlights
 
@@ -37,7 +37,7 @@ My current research interests lie in the general area of natural language proces
 \# indicates equal contributions.
 
 * **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. **AutoDisc: Automatic Distillation Schedule for Large Language Model Compression.** In Progress. [[arXiv]](https://arxiv.org/abs/2205.14570)
-* **Chen Zhang**, Lei Ren, Jingang Wang, Wei Wu, and Dawei Song. **Making Pre-trained Language Models Good Long-tailed Learners.** In Progress. [[arXiv]](https://arxiv.org/abs/2205.05461)
+* **Chen Zhang**, Lei Ren, Jingang Wang, Wei Wu, and Dawei Song. **Making Pretrained Language Models Good Long-tailed Learners.** In Progress. [[arXiv]](https://arxiv.org/abs/2205.05461)
 * Bo Zhang, **Chen Zhang**, Fang Ma, and Dawei Song. **Adaptable Text Matching via Meta-Weight Regulator.** In **SIGIR 2022**. [[arXiv]](https://arxiv.org/abs/2204.12668)
 * **Chen Zhang** and Dawei Song. **A Simple Baseline for Cross-domain Few-shot Text Classification.** In **NLPCC 2021**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88480-2_56)[[slides]](./assets/file/NLPCC2021-Oral.pdf)[[code]](https://github.com/GeneZC/XFew)
 * Fang Ma\#, **Chen Zhang**\#, and Dawei Song. **Exploiting Position Bias for Robust Aspect Sentiment Classification.** In **ACL 2021**. [[arXiv]](https://arxiv.org/abs/2105.14210)[[paper]](https://aclanthology.org/2021.findings-acl.116/)[[slides]](./assets/file/ACL2021-Oral.pdf)[[code]](https://github.com/BD-MF/POS4ASC)
