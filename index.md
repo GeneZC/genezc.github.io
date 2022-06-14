@@ -4,7 +4,7 @@ layout: default
 
 ### About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) and [Prof. Benyou Wang](https://wabyking.github.io/old) broadly on various topics. I also collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) on and [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) on generalization and accelaration of pretrained language models at Meituan NLP. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ) on various topics. I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/), [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) from Meituan NLP, and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on generalization and accelaration of pretrained language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Recent Highlights
 
