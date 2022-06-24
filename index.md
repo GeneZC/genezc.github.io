@@ -8,9 +8,11 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 
 ### Recent Highlights
 
+* June. 24th, 2022. *WenJin* reached the 1st place (as of the time) on [CLUE Overall Benchmark](https://www.cluebenchmarks.com/rank.html).
 * Mar. 31st, 2022. One long paper got accepted to [SIGIR 2022](https://sigir.org/sigir2022/program/accepted/).
-* Dec. 27th, 2021. Help to develope *WenJin*, which has reached the first place (as of the time) on [CLUE classification benchmark](https://www.cluebenchmarks.com/classification.html).
-* Nov. 29th, 2021. Glad to join the Elite Ph.D. Program at BIT.
+* Dec. 27th, 2021. *WenJin*, in-house pretrained language model in Meituan,reached the 1st place (as of the time) on [CLUE Classification Benchmark](https://www.cluebenchmarks.com/classification.html).
+* Nov. 29th, 2021. Joined the Elite Ph.D. Program at BIT.
+* Oct. 20th, 2021. Our blog on [Applications of Fine-grained Opinion Mining in Meituan](https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html) was ready to be explored.
 * Oct. 15th, 2021. Attended NLPCC 2021 and gave an oral presentation online.
 * July 30th, 2021. One regular paper got accepted to [NLPCC 2021](http://tcci.ccf.org.cn/conference/2021/).
 
