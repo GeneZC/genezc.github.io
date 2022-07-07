@@ -9,9 +9,9 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 ### Recent Highlights
 
 * June. 24th, 2022. *WenJin* reached the 1st place (as of the time) on [CLUE Overall Benchmark](https://www.cluebenchmarks.com/rank.html).
+* May. 31st, 2022. Our automatic scheduler of teacher assistants, namly *AutoDisc*, appeared at [Large Language Model Forum of 2022 BAAI Conference](https://2022-live.baai.ac.cn/2022/live/?room_id=16970). 
 * Mar. 31st, 2022. One long paper got accepted to [SIGIR 2022](https://sigir.org/sigir2022/program/accepted/).
-* Dec. 27th, 2021. *WenJin*, in-house pretrained language model in Meituan,reached the 1st place (as of the time) on [CLUE Classification Benchmark](https://www.cluebenchmarks.com/classification.html).
-* Nov. 29th, 2021. Joined the Elite Ph.D. Program at BIT.
+* Dec. 27th, 2021. *WenJin*, our in-house pretrained language model family at Meituan, reached the 1st place (as of the time) on [CLUE Classification Benchmark](https://www.cluebenchmarks.com/classification.html).
 * Oct. 20th, 2021. Our blog on [Applications of Fine-grained Opinion Mining in Meituan](https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html) was ready to be explored.
 * Oct. 15th, 2021. Attended NLPCC 2021 and gave an oral presentation online.
 * July 30th, 2021. One regular paper got accepted to [NLPCC 2021](http://tcci.ccf.org.cn/conference/2021/).
@@ -24,18 +24,18 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly in 1) fine-grained opinion mining, 2) generalization and accelaration of pretrained language models. Prior to devoting myself to natural language processing, I did a variety of work on game AI.
+My current research interests lie in the general area of natural language processing, particularly generalization and accelaration of pretrained language models. Prior to that, I did a variety of work on fine-grained opinion mining.
 
-### Experiences
+### Industrial Experiences & Academic Services
 
-* Mar. 2021 - Present, Research Intern, Meituan NLP.
-* Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO.
-* July 2019 - Aug. 2019, Research Intern, Zhejiang Lab.
+* Mar. 2021 - Present, Research Intern, Meituan NLP. On deployment of large languege models.
+* Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO. On text-to-SQL language models.
+* July 2019 - Aug. 2019, Research Intern, Zhejiang Lab. On low-resource information extraction.
 * Reviewer: ACL, EMNLP, NAACL, SIGIR, CIKM.
 * Secondary Reviewer: WSDM, ICTIR, TOIS, AAAI.
-* Conference Volunteer: EMNLP 2019.
+* Conference Volunteer: EMNLP.
 
-### Manuscripts & Publications  [<img src="./assets/img/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/img/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
+### Publications & Manuscripts [<img src="./assets/img/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/img/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
 \# indicates equal contributions.
 
 * **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. **AutoDisc: Automatic Distillation Schedule for Large Language Model Compression.** In Progress. [[arXiv]](https://arxiv.org/abs/2205.14570)
@@ -49,7 +49,7 @@ My current research interests lie in the general area of natural language proces
 
 ### Honors & Awards
 
-* **Elite Ph.D. Program** at BIT. 2021.
+* **Elite Ph.D.** at BIT. 2021.
 * **XIAOMI Scholarship**. 2021.
 * **Excellent Undergraduate & Graduation Thesis** at BIT. 2019.
 * **SIGIR Student Travel Grant** by SIGIR. 2019.
