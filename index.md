@@ -9,7 +9,7 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 ### Recent Highlights
 
 * July. 20th, 2022. Our adversarial ABSA benchmark [*adv*ABSA](https://huggingface.co/datasets/becurrio/advABSA) was ready to be explored on 🤗 HuggingFace datasets.
-* July. 4th, 2022. Two regular papers, where I coauthored with juniors, got accepted to [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/).
+* July. 4th, 2022. Two regular papers, where I coauthored with the juniors, got accepted to [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/).
 * June. 24th, 2022. *WenJin* reached the 1st place (as of the time) on [CLUE Overall Benchmark](https://www.cluebenchmarks.com/rank.html).
 * May. 31st, 2022. Our automatic scheduler of teacher assistants, namly *AutoDisc*, appeared at [Large Language Model Forum of 2022 BAAI Conference](https://2022-live.baai.ac.cn/2022/live/?room_id=16970). 
 * Mar. 31st, 2022. One long paper got accepted to [SIGIR 2022](https://sigir.org/sigir2022/program/accepted/).
