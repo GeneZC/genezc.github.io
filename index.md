@@ -4,10 +4,11 @@ layout: default
 
 ### About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ) on various topics. I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/), [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) from Meituan NLP, and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on generalization and accelaration of pretrained language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ). I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/), [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) from Meituan NLP, and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on pretrained language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Recent Highlights
 
+* Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022.org/programme).
 * July. 20th, 2022. Our adversarial ABSA benchmark [*adv*ABSA](https://huggingface.co/datasets/becurrio/advABSA) was ready to be explored on 🤗 HuggingFace datasets.
 * July. 4th, 2022. Two regular papers, where I coauthored with the juniors, got accepted to [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/).
 * June. 24th, 2022. *WenJin* reached the 1st place (as of the time) on [CLUE Overall Benchmark](https://www.cluebenchmarks.com/rank.html).
@@ -24,7 +25,7 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly generalization and accelaration of pretrained language models. Prior to that, I did a variety of work on fine-grained opinion mining.
+My current research interests lie in the general area of natural language processing, particularly generalized opinion mining and accelaration of pretrained language models.
 
 ### Industrial Experiences & Academic Services
 
