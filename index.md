@@ -25,15 +25,15 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly generalized opinion mining and accelaration of pretrained language models.
+My current research interests lie in the general area of natural language processing, particularly generalized opinion mining and large language model compression.
 
 ### Industrial Experiences & Academic Services
 
 * Mar. 2021 - Present, Research Intern, Meituan NLP. On large languege models.
 * Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO. On text-to-SQL language models.
 * July 2019 - Aug. 2019, Research Intern, Zhejiang Lab. On low-resource information extraction.
-* Reviewer: ACL, EMNLP, NAACL, SIGIR, CIKM.
-* Secondary Reviewer: WSDM, ICTIR, TOIS, AAAI.
+* Reviewer: ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI.
+* Secondary Reviewer: WSDM, ICTIR, TOIS.
 * Conference Volunteer: EMNLP.
 
 ### Publications & Manuscripts [<img src="./assets/img/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/img/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
@@ -52,7 +52,7 @@ My current research interests lie in the general area of natural language proces
 
 ### Honors & Awards
 
-* **Elite Ph.D.** at BIT. 2021.
+* **Elite Ph.D. Student** at BIT. 2021.
 * **XIAOMI Scholarship**. 2021.
 * **Excellent Undergraduate & Graduation Thesis** at BIT. 2019.
 * **SIGIR Student Travel Grant** by SIGIR. 2019.
