@@ -4,7 +4,7 @@ layout: default
 
 ### About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ). I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/), [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) from Meituan NLP, and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on pretrained language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ). I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/), [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) from Meituan NLP, and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on large language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Recent Highlights
 
@@ -27,8 +27,9 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 
 My current research interests lie in the general area of natural language processing, particularly generalized opinion mining and large language model compression.
 
-### Industrial Experiences & Academic Services
+### Industrial & Academic Experiences
 
+* Aug. 2022 - Present, Research Assistant, The Chinese University of Hong Kong, Shenzhen.
 * Mar. 2021 - Present, Research Intern, Meituan NLP. On large languege models.
 * Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO. On text-to-SQL language models.
 * July 2019 - Aug. 2019, Research Intern, Zhejiang Lab. On low-resource information extraction.
@@ -41,6 +42,7 @@ My current research interests lie in the general area of natural language proces
 
 * **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. **AutoDisc: Automatic Distillation Schedule for Large Language Model Compression.** In Progress. [[arXiv]](https://arxiv.org/abs/2205.14570)
 * **Chen Zhang**, Lei Ren, Jingang Wang, Wei Wu, and Dawei Song. **Making Pretrained Language Models Good Long-tailed Learners.** In Progress. [[arXiv]](https://arxiv.org/abs/2205.05461)
+* **Chen Zhang**, Lei Ren, Fang Ma, Jingang Wang, Wei Wu, and Dawei Song. **Structural Bias For Aspect Triplet Extraction.** In **COLING 2022**. [[arXiv]]()[[code]](https://github.com/GeneZC/StructBias)[[data]](https://github.com/GeneZC/StructBias)
 * Yi Yang, **Chen Zhang**, Benyou Wang, and Dawei Song. <img src="./assets/img/dogetickets.png" width="25" height="15" alt="dogetickets" align=center/> **Doge Tickets: Uncovering Domain-general Language Models by Playing Lottery Tickets.** In **NLPCC 2022**. [[arXiv]](https://arxiv.org/abs/2207.09638)[[code]](https://github.com/Ylily1015/DogeTickets)
 * Fang Ma, **Chen Zhang**, Bo Zhang, and Dawei Song. **Aspect-specific Context Modeling for Aspect-based Sentiment Analysis.** In **NLPCC 2022**. [[arXiv]](https://arxiv.org/abs/2207.08099)[[code]](https://github.com/BD-MF/ASCM4ABSA)[[data]](https://huggingface.co/datasets/becurrio/advABSA)
 * Bo Zhang, **Chen Zhang**, Fang Ma, and Dawei Song. **Adaptable Text Matching via Meta-Weight Regulator.** In **SIGIR 2022**. [[arXiv]](https://arxiv.org/abs/2204.12668)
