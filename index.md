@@ -29,9 +29,9 @@ My current research interests lie in the general area of natural language proces
 
 ### Industrial & Academic Experiences
 
-* Aug. 2022 - Present, Research Assistant, <img src="./assets/img/cuhk.jpg" width="22" height="22" alt="cuhk" align=center/> The Chinese University of Hong Kong, Shenzhen.
+* Aug. 2022 - Present, Research Assistant, <img src="./assets/img/cuhk.jpg" width="25" height="22" alt="cuhk" align=center/> The Chinese University of Hong Kong, Shenzhen.
 * Mar. 2021 - Present, Research Intern, <img src="./assets/img/meituan.png" width="22" height="22" alt="meituan" align=center/> Meituan NLP. On large languege models.
-* Nov. 2020 - Feb. 2021, Research Intern, <img src="./assets/img/damo.png" width="22" height="22" alt="damo" align=center/> Alibaba DAMO. On text-to-SQL language models.
+* Nov. 2020 - Feb. 2021, Research Intern, <img src="./assets/img/damo.png" width="35" height="22" alt="damo" align=center/> Alibaba DAMO. On text-to-SQL language models.
 * July 2019 - Aug. 2019, Research Intern, <img src="./assets/img/zhejiang.png" width="22" height="22" alt="zhejiang" align=center/> Zhejiang Lab. On low-resource information extraction.
 * Reviewer: ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI.
 * Secondary Reviewer: WSDM, ICTIR, TOIS.
