@@ -8,7 +8,7 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 
 ### Recent Highlights
 
-* Sep. 17th, 2022. *DogeTickets* recieved best paper award at NLPCC 2022.
+* Sep. 17th, 2022. *DogeTickets* recieved Best Paper Award at NLPCC 2022.
 * Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022.org/programme).
 * July. 4th, 2022. Two regular papers, where I coauthored with the juniors, got accepted to [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/).
 * June. 24th, 2022. *WenJin* reached the 1st place (as of the time) on [CLUE Overall Benchmark](https://www.cluebenchmarks.com/rank.html).
@@ -42,7 +42,7 @@ My current research interests lie in the general area of natural language proces
 * **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. **AutoDisc: Automatic Distillation Schedule for Large Language Model Compression.** In Progress. [[arXiv]](https://arxiv.org/abs/2205.14570)
 * **Chen Zhang**, Lei Ren, Jingang Wang, Wei Wu, and Dawei Song. **Making Pretrained Language Models Good Long-tailed Learners.** In Progress. [[arXiv]](https://arxiv.org/abs/2205.05461)
 * **Chen Zhang**, Lei Ren, Fang Ma, Jingang Wang, Wei Wu, and Dawei Song. **Structural Bias For Aspect Sentiment Triplet Extraction.** In **COLING 2022**. [[arXiv]](https://arxiv.org/abs/2209.00820)[[code]](https://github.com/GeneZC/StructBias)[[data]](https://github.com/GeneZC/StructBias)
-* Yi Yang\#, **Chen Zhang**\#, Benyou Wang, and Dawei Song. <img src="./assets/img/dogetickets.png" width="25" height="15" alt="dogetickets" align=center/> **Doge Tickets: Uncovering Domain-general Language Models by Playing Lottery Tickets.** In **NLPCC 2022**. [[arXiv]](https://arxiv.org/abs/2207.09638)[[code]](https://github.com/Ylily1015/DogeTickets)
+* Yi Yang\#, **Chen Zhang**\#, Benyou Wang, and Dawei Song. <img src="./assets/img/dogetickets.png" width="25" height="15" alt="dogetickets" align=center/> **Doge Tickets: Uncovering Domain-general Language Models by Playing Lottery Tickets.** In **NLPCC 2022 (<font color=red>Best Paper Award</font>)**. [[arXiv]](https://arxiv.org/abs/2207.09638)[[code]](https://github.com/Ylily1015/DogeTickets)
 * Fang Ma, **Chen Zhang**, Bo Zhang, and Dawei Song. **Aspect-specific Context Modeling for Aspect-based Sentiment Analysis.** In **NLPCC 2022**. [[arXiv]](https://arxiv.org/abs/2207.08099)[[code]](https://github.com/BD-MF/ASCM4ABSA)[[data]](https://github.com/GeneZC/advABSA)
 * Bo Zhang, **Chen Zhang**, Fang Ma, and Dawei Song. **Adaptable Text Matching via Meta-Weight Regulator.** In **SIGIR 2022**. [[arXiv]](https://arxiv.org/abs/2204.12668)
 * **Chen Zhang** and Dawei Song. **A Simple Baseline for Cross-domain Few-shot Text Classification.** In **NLPCC 2021**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88480-2_56)[[slides]](./assets/file/NLPCC2021-Oral.pdf)[[code]](https://github.com/GeneZC/XFew)
