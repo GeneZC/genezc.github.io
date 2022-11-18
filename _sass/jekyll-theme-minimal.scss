@@ -9,6 +9,20 @@ body {
   font-weight:400;
 }
 
+#overlay {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0; 
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+}
+
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
@@ -111,6 +125,12 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+header::after {
+  content:"";
+  clear:both;
+  display:table;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
@@ -173,7 +193,6 @@ strong {
 
 section {
   float:right;
-  width:1000px;
   padding-left:300px;
   padding-bottom:50px;
 }
