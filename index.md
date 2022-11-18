@@ -4,7 +4,7 @@ layout: default
 
 ### About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ). I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/), [Dr. Wei Wu](https://sites.google.com/view/wei-wu-homepage) from Meituan NLP, and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on large language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Dr. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ). I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on large language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ### Recent Highlights
 
@@ -17,17 +17,16 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 
 ### Education
 
-* Sep. 2021 - Present, Ph.D. in Computer Science, Beijing Institute of Technology.
-* Sep. 2019 - July 2021, M.Eng. in Computer Science, Beijing Institute of Technology.
+* Sep. 2019 - Present, Dual M.Eng.-Ph.D. in Computer Science, Beijing Institute of Technology.
 * Sep. 2015 - July 2019, B.Eng. in Electrical Engineering, Beijing Institute of Technology.
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly generalized opinion mining and large language model compression.
+My current research interests lie in the general area of natural language processing, particularly generalized opinion mining and large language models.
 
 ### Industrial & Academic Experiences
 
-* Aug. 2022 - Present, Research Assistant, The Chinese University of Hong Kong, Shenzhen. On modular and elastic language models.
+* Aug. 2022 - Present, Research Assistant, The Chinese University of Hong Kong, Shenzhen. On elastic language models.
 * Mar. 2021 - Present, Research Intern, Meituan NLP. On large languege models.
 * Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO. On structure-grounded language models.
 * July 2019 - Aug. 2019, Research Intern, Zhejiang Lab. On low-resource information extraction.
