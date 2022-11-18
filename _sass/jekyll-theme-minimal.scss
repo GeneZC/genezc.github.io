@@ -1,10 +1,10 @@
-@import "fonts";
+
 @import "rouge-github";
 
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", Helvetica, sans-serif;
+  font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#727272;
   font-weight:400;
 }
@@ -172,9 +172,7 @@ strong {
 }
 
 section {
-  width:500px;
   float:right;
-  padding-bottom:50px;
 }
 
 small {

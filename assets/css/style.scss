@@ -17,3 +17,15 @@
   -moz-opacity: 1;
   -webkit-opacity: 1;
 }
+
+.img-rectangle {	
+  opacity: 0.7;
+  -moz-opacity:0.7;
+  -webkit-opacity:0.8;
+} 
+.img-rectangle:hover {	
+  cursor: pointer;
+  opacity: 1;
+  -moz-opacity: 1;
+  -webkit-opacity: 1;
+}
