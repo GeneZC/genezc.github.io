@@ -7,6 +7,7 @@ body {
   font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#727272;
   font-weight:400;
+  width:1350px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -173,7 +174,9 @@ strong {
 
 section {
   float:right;
-  padding-left:270px;
+  width:1000px;
+  padding-left:300px;
+  padding-bottom:50px;
 }
 
 small {
