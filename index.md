@@ -22,7 +22,7 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 
 ### Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly generalized opinion mining and large language models.
+My current research interests lie in the general area of natural language processing, particularly generalized opinion mining, retreival, and language models.
 
 ### Industrial & Academic Experiences
 
