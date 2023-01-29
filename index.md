@@ -9,7 +9,7 @@ I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I
 ### Recent Highlights
 
 * Oct. 7th, 2022. Three long papers got accepted to [EMNLP 2022](https://2022.emnlp.org/).
-* Sep. 17th, 2022. *DogeTickets* recieved Best Paper Award at NLPCC 2022.
+* Sep. 17th, 2022. *DogeTickets* received Best Paper Award at NLPCC 2022.
 * Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022.org/).
 * July 4th, 2022. Two regular papers, where I coauthored with the juniors, got accepted to [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/).
 * June 24th, 2022. *WenJin* reached the 1st place (as of the time) on [CLUE Overall Benchmark](https://www.cluebenchmarks.com/rank.html).
