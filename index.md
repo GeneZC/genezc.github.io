@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ). I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on large language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ. I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on large language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
 ## Recent Highlights
 
@@ -30,7 +30,7 @@ My current research interests lie in the general area of natural language proces
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Beijing Institute of Technology</span>
+				<span class="flag">BIT</span>
 				<span class="time-wrapper"><span class="time">Sep. 2019 - Present</span></span>
 			</div>
 			<div class="desc">Dual M.Eng.-Ph.D. in Computer Science</div>
@@ -48,7 +48,7 @@ My current research interests lie in the general area of natural language proces
     <li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">CUHK SZ</span>
+				<span class="flag">CUHK-SZ</span>
 				<span class="time-wrapper"><span class="time">Aug. 2022 - Present</span></span>
 			</div>
 			<div class="desc">Research Assistant on Elastic Language Models</div>
@@ -75,7 +75,7 @@ My current research interests lie in the general area of natural language proces
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Beijing Institute of Technology</span>
+				<span class="flag">BIT</span>
 				<span class="time-wrapper"><span class="time">Sep. 2015 - July 2019</span></span>
 			</div>
 			<div class="desc">B.Eng. in Electrical Engineering</div>
