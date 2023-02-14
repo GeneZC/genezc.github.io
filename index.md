@@ -48,7 +48,7 @@ My current research interests lie in the general area of natural language proces
     <li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">The Chinese University of Hong Kong, SZ</span>
+				<span class="flag">CUHK SZ</span>
 				<span class="time-wrapper"><span class="time">Aug. 2022 - Present</span></span>
 			</div>
 			<div class="desc">Research Assistant on Elastic Language Models</div>
