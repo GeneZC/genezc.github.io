@@ -2,11 +2,11 @@
 layout: default
 ---
 
-### About Me
+## About Me
 
 I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK(SZ). I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on large language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
-### Recent Highlights
+## Recent Highlights
 
 Oct. 7th, 2022. Three long papers got accepted to [EMNLP 2022](https://2022.emnlp.org/).
 
@@ -20,55 +20,80 @@ June 24th, 2022. *WenJin* reached the 1st place (as of the time) on [CLUE Overal
 
 Mar. 31st, 2022. One long paper got accepted to [SIGIR 2022](https://sigir.org/sigir2022/).
 
-### Research Interests
+## Research Interests
 
 My current research interests lie in the general area of natural language processing, particularly generalized opinion mining, retrieval, and language models.
+
+## Experiences
 
 <ul class="timeline">
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Freelancer</span>
-				<span class="time-wrapper"><span class="time">2013 - present</span></span>
+				<span class="flag">Beijing Institute of Technology</span>
+				<span class="time-wrapper"><span class="time">Sep. 2019 - Present</span></span>
 			</div>
-			<div class="desc">My current employment. Way better than the position before!</div>
+			<div class="desc">Dual M.Eng.-Ph.D. in Computer Science</div>
+		</div>
+	</li>
+    <li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Meituan NLP</span>
+				<span class="time-wrapper"><span class="time">Mar. 2021 - Present</span></span>
+			</div>
+			<div class="desc">Research Resident on Large Language Models</div>
+		</div>
+	</li>
+    <li>
+		<div class="direction-r">
+			<div class="flag-wrapper">
+				<span class="flag">The Chinese University of Hong Kong, Shenzhen</span>
+				<span class="time-wrapper"><span class="time">Aug. 2022 - Present</span></span>
+			</div>
+			<div class="desc">Research Assistant on Elastic Language Models</div>
+		</div>
+	</li>
+    <li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Meituan NLP</span>
+				<span class="time-wrapper"><span class="time">Mar. 2021 - Present</span></span>
+			</div>
+			<div class="desc">Research Resident on Large Language Models</div>
 		</div>
 	</li>
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
-				<span class="flag">Apple Inc.</span>
-				<span class="time-wrapper"><span class="time">2011 - 2013</span></span>
+				<span class="flag">Alibaba DAMO</span>
+				<span class="time-wrapper"><span class="time">Nov. 2020 - Feb. 2021</span></span>
 			</div>
-			<div class="desc">My first employer. All the stuff I've learned and projects I've been working on.</div>
+			<div class="desc">Research Intern on Structure-grounded Language Models</div>
+		</div>
+	</li>
+    <li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Zhejiang Lab</span>
+				<span class="time-wrapper"><span class="time">July 2019 - Aug. 2019</span></span>
+			</div>
+			<div class="desc">Research Intern on Low-resource Information Extraction</div>
 		</div>
 	</li>
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
-				<span class="flag">Harvard University</span>
-				<span class="time-wrapper"><span class="time">2008 - 2011</span></span>
+				<span class="flag">Beijing Institute of Technology</span>
+				<span class="time-wrapper"><span class="time">Sep. 2015 - July 2019</span></span>
 			</div>
-			<div class="desc">A description of all the lectures and courses I have taken and my final degree?</div>
+			<div class="desc">B.Eng. in Electrical Engineering</div>
 		</div>
 	</li>
 </ul>
 
-### Education
 
-Sep. 2019 - Present, Dual M.Eng.-Ph.D. in Computer Science, Beijing Institute of Technology.
-
-Sep. 2015 - July 2019, B.Eng. in Electrical Engineering, Beijing Institute of Technology.
-
-### Industrial & Academic Experiences
-
-Aug. 2022 - Present, Research Assistant, The Chinese University of Hong Kong, Shenzhen. On elastic language models.
-
-Mar. 2021 - Present, Research Intern, Meituan NLP. On large languege models.
-
-Nov. 2020 - Feb. 2021, Research Intern, Alibaba DAMO. On structure-grounded language models.
-
-July 2019 - Aug. 2019, Research Intern, Zhejiang Lab. On low-resource information extraction.
+## Services
 
 Reviewer: ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI.
 
@@ -76,7 +101,7 @@ Secondary Reviewer: WSDM, ICTIR, TOIS.
 
 Conference Volunteer: EMNLP.
 
-### Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/imgs/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
+## Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/imgs/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
 \# indicates equal contributions.
 
 **AutoDisc: Automatic Distillation Schedule for Large Language Model Compression.** <br>
@@ -136,7 +161,7 @@ In **EMNLP 2019**. [[arXiv]](https://arxiv.org/abs/1909.03477)[[slides]](./asset
 In **SIGIR 2019**. [[arXiv]](https://arxiv.org/abs/1909.10171)[[poster]](./assets/files/SIGIR2019_PWCN.pdf)[[code]](https://github.com/GeneZC/PWCN)
 
 
-### Honors & Awards
+## Honors & Awards
 
 **Best Paper Award** at NLPCC. 2022.
 
