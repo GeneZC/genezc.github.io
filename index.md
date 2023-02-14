@@ -54,15 +54,6 @@ My current research interests lie in the general area of natural language proces
 			<div class="desc">Research Assistant on Elastic Language Models</div>
 		</div>
 	</li>
-    <li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">Meituan NLP</span>
-				<span class="time-wrapper"><span class="time">Mar. 2021 - Present</span></span>
-			</div>
-			<div class="desc">Research Resident on Large Language Models</div>
-		</div>
-	</li>
 	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
