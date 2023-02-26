@@ -133,7 +133,7 @@ In **NLPCC 2021**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030
 
 **Exploiting Position Bias for Robust Aspect Sentiment Classification.** <br>
 Fang Ma\#, **Chen Zhang**\#, and Dawei Song. <br>
-In **ACL 2021**. [[arXiv]](https://arxiv.org/abs/2105.14210)[[slides]](./assets/files/ACL2021_PosBias.pdf)[[code]](https://github.com/BD-MF/POS4ASC)
+In **ACL 2021** Findings. [[arXiv]](https://arxiv.org/abs/2105.14210)[[slides]](./assets/files/ACL2021_PosBias.pdf)[[code]](https://github.com/BD-MF/POS4ASC)
 
 **End-to-end Emotion-Cause Pair Extraction via Learning to Link.** <br>
 Haolin Song, **Chen Zhang**, Qiuchi Li, and Dawei Song. <br>
@@ -141,7 +141,7 @@ Preprint. [[arXiv]](https://arxiv.org/abs/2002.10710)[[code]](https://github.com
 
 **A Multi-task Learning Framework for Opinion Triplet Extraction.** <br>
 **Chen Zhang**, Qiuchi Li, Dawei Song, and Benyou Wang. <br>
-In **EMNLP 2020**. [[arXiv]](https://arxiv.org/abs/2010.01512)[[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.72/)[[code]](https://github.com/GeneZC/OTE-MTL)
+In **EMNLP 2020** Findings. [[arXiv]](https://arxiv.org/abs/2010.01512)[[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.72/)[[code]](https://github.com/GeneZC/OTE-MTL)
 
 **Aspect-based Sentiment Classification with Aspect-specific Graph Convolutional Networks.** <br>
 **Chen Zhang**, Qiuchi Li, and Dawei Song. <br>
