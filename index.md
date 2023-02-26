@@ -22,7 +22,7 @@ Mar. 31st, 2022. One long paper got accepted to [SIGIR 2022](https://sigir.org/s
 
 ## Research Interests
 
-My current research interests lie in the general area of natural language processing, particularly generalized opinion mining, retrieval, and language models.
+My current research interests lie in the general area of natural language processing, particularly opinion, retrieval, and language models.
 
 ## Experiences
 
@@ -36,22 +36,22 @@ My current research interests lie in the general area of natural language proces
 			<div class="desc">Dual M.Eng.-Ph.D. in Computer Science</div>
 		</div>
 	</li>
-    <li>
-		<div class="direction-l">
-			<div class="flag-wrapper">
-				<span class="flag">Meituan NLP</span>
-				<span class="time-wrapper"><span class="time">Mar. 2021 - Present</span></span>
-			</div>
-			<div class="desc">Research Resident on Large Language Models</div>
-		</div>
-	</li>
-    <li>
+	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">CUHK-SZ</span>
 				<span class="time-wrapper"><span class="time">Aug. 2022 - Present</span></span>
 			</div>
 			<div class="desc">Research Assistant on Elastic Language Models</div>
+		</div>
+	</li>
+    	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Meituan NLP</span>
+				<span class="time-wrapper"><span class="time">Mar. 2021 - Present</span></span>
+			</div>
+			<div class="desc">Research Resident on Large Language Models</div>
 		</div>
 	</li>
 	<li>
@@ -63,7 +63,7 @@ My current research interests lie in the general area of natural language proces
 			<div class="desc">Research Intern on Structure-grounded Language Models</div>
 		</div>
 	</li>
-    <li>
+    	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">Zhejiang Lab</span>
