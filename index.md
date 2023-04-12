@@ -40,7 +40,7 @@ My current research interests lie in the general area of natural language proces
 		<div class="direction-r">
 			<div class="flag-wrapper">
 				<span class="flag">CUHK-SZ</span>
-				<span class="time-wrapper"><span class="time">Aug. 2022 - Present</span></span>
+				<span class="time-wrapper"><span class="time">Aug. 2022 - Mar. 2023</span></span>
 			</div>
 			<div class="desc">Research Assistant on Elastic Language Models</div>
 		</div>
@@ -49,9 +49,9 @@ My current research interests lie in the general area of natural language proces
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">Meituan NLP</span>
-				<span class="time-wrapper"><span class="time">Mar. 2021 - Present</span></span>
+				<span class="time-wrapper"><span class="time">Mar. 2021 - Mar. 2023</span></span>
 			</div>
-			<div class="desc">Student Researcher on Large Language Models</div>
+			<div class="desc">Research Intern on Large Language Models</div>
 		</div>
 	</li>
 	<li>
