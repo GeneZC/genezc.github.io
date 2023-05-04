@@ -6,7 +6,13 @@ layout: default
 
 I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ. I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP on large language models. You can contact me via czhang[AT]bit[DOT]edu[DOT]cn.
 
+My current research interests lie in the general area of natural language processing, particularly opinion, retrieval, and language models.
+
 ## Recent Highlights
+
+May 4th, 2023. One long paper got accepted to [ACL 2023](https://2023.aclweb.org/).
+
+Apr. 10th, 2023. Our instruction-following language model [*Phoenix*](https://github.com/FreedomIntelligence/LLMZoo) reached comparable performance to ChatGLM-6b.
 
 Oct. 7th, 2022. Three long papers got accepted to [EMNLP 2022](https://2022.emnlp.org/).
 
@@ -15,14 +21,6 @@ Sep. 17th, 2022. *DogeTickets* received Best Paper Award at NLPCC 2022.
 Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022.org/).
 
 July 4th, 2022. Two regular papers, where I coauthored with the juniors, got accepted to [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/).
-
-June 24th, 2022. *WenJin* reached the 1st place (as of the time) on [CLUE Overall Benchmark](https://www.cluebenchmarks.com/rank.html).
-
-Mar. 31st, 2022. One long paper got accepted to [SIGIR 2022](https://sigir.org/sigir2022/).
-
-## Research Interests
-
-My current research interests lie in the general area of natural language processing, particularly opinion, retrieval, and language models.
 
 ## Experiences
 
@@ -83,20 +81,21 @@ My current research interests lie in the general area of natural language proces
 	</li>
 </ul>
 
+## Projects
 
-## Services
+***WeiJin*** <br>
+A large language model that reaches top-level performance on CLUE benchmark.
+[[Rank]](https://cluebenchmarks.com/en/rank.html)
 
-Reviewer: ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI.
-
-Secondary Reviewer: WSDM, ICTIR, TOIS.
-
-Conference Volunteer: EMNLP.
+***Phoenix*** <br>
+An instruction-following language model that is competitive with ChatGLM-6b.
+[[Paper]](https://arxiv.org/abs/2304.10453)[[GitHub]](https://github.com/FreedomIntelligence/LLMZoo)[[HuggingFace]](https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b)[[News]](https://www.jiqizhixin.com/articles/2023-04-16-2)
 
 ## Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/imgs/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
 \# indicates equal contributions.
 
-**AutoDisc: Automatic Distillation Schedule for Large Language Model Compression.** <br>
-**Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. <br>
+**MiniDisc: Minimal Distillation Schedule for Language Model Compression.** <br>
+**Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Yunsen Xian, Wei Wu, and Dawei Song. <br>
 Preprint. [[arXiv]](https://arxiv.org/abs/2205.14570) <br>
 
 **Sparse Teachers Can Be Dense with Knowledge.** <br>
@@ -151,6 +150,13 @@ In **EMNLP 2019**. [[arXiv]](https://arxiv.org/abs/1909.03477)[[slides]](./asset
 **Chen Zhang**, Qiuchi Li, and Dawei Song. <br>
 In **SIGIR 2019**. [[arXiv]](https://arxiv.org/abs/1909.10171)[[poster]](./assets/files/SIGIR2019_PWCN.pdf)[[code]](https://github.com/GeneZC/PWCN)
 
+## Services
+
+Reviewer: ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI.
+
+Secondary Reviewer: WSDM, ICTIR, TOIS.
+
+Conference Volunteer: EMNLP.
 
 ## Honors & Awards
 
