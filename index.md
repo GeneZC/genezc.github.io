@@ -84,11 +84,11 @@ July 4th, 2022. Two regular papers, where I coauthored with the juniors, got acc
 ## Projects
 
 ***WeiJin*** <br>
-A large language model that reaches top-level performance on CLUE benchmark.
+A large language model that reaches top-level performance on CLUE benchmark. <br>
 [[Rank]](https://cluebenchmarks.com/en/rank.html)
 
 ***Phoenix*** <br>
-An instruction-following language model that is competitive with ChatGLM-6b.
+An instruction-following language model that is competitive with ChatGLM-6b. <br>
 [[Paper]](https://arxiv.org/abs/2304.10453)[[GitHub]](https://github.com/FreedomIntelligence/LLMZoo)[[HuggingFace]](https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b)[[News]](https://www.jiqizhixin.com/articles/2023-04-16-2)
 
 ## Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/imgs/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
