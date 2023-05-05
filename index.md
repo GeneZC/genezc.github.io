@@ -83,7 +83,7 @@ July 4th, 2022. Two regular papers, where I coauthored with the juniors, got acc
 
 ## Projects
 
-***WeiJin*** <br>
+***WenJin*** <br>
 A large language model that reaches top-level performance on CLUE benchmark. <br>
 [[rank]](https://cluebenchmarks.com/en/rank.html)
 
