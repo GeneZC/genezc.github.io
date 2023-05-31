@@ -96,7 +96,7 @@ A large language model that reaches top-level performance on CLUE benchmark. <br
 
 **Lifting the Curse of Capacity Gap in Distilling Language Models.** <br>
 **Chen Zhang**, Yang Yang, Jiahao Liu, Jingang Wang, Yunsen Xian, Benyou Wang, and Dawei Song.  <br>
-In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2305.12129)[[code]](https://github.com/GeneZC/MiniMoE)
+In **ACL 2023**. [[arXiv]](https://arxiv.org/abs/2305.12129)[[code]](https://github.com/GeneZC/MiniMoE)
 
 **MiniDisc: Minimal Distillation Schedule for Language Model Compression.** <br>
 **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Yunsen Xian, Wei Wu, and Dawei Song. <br>
