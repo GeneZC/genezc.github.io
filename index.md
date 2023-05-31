@@ -83,20 +83,24 @@ July 4th, 2022. Two regular papers, where I coauthored with the juniors, got acc
 
 ## Projects
 
-***WenJin*** <br>
-A large language model that reaches top-level performance on CLUE benchmark. <br>
-[[rank]](https://cluebenchmarks.com/en/rank.html)
-
 ***Phoenix*** <br>
 An instruction-following language model that is competitive with ChatGLM-6b. <br>
-[[paper]](https://arxiv.org/abs/2304.10453)[[github]](https://github.com/FreedomIntelligence/LLMZoo)[[huggingface]](https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b)[[news]](https://www.jiqizhixin.com/articles/2023-04-16-2)
+[[paper]](https://arxiv.org/abs/2304.10453)[[github]](https://github.com/FreedomIntelligence/LLMZoo)[[huggingface]](https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b)[[rank]](https://www.superclueai.com/)[[news]](https://www.jiqizhixin.com/articles/2023-04-16-2)
+
+***WenJin*** <br>
+A large language model that reaches top-level performance on CLUE benchmark. <br>
+[[blog]](https://www.6aiq.com/article/1681621552327)[[rank]](https://cluebenchmarks.com/en/rank.html)
 
 ## Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/imgs/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
 \# indicates equal contributions.
 
+**Lifting the Curse of Capacity Gap in Distilling Language Models.** <br>
+**Chen Zhang**, Yang Yang, Jiahao Liu, Jingang Wang, Yunsen Xian, Benyou Wang, and Dawei Song.  <br>
+In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2305.12129)[[code]](https://github.com/GeneZC/MiniMoE)
+
 **MiniDisc: Minimal Distillation Schedule for Language Model Compression.** <br>
 **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Yunsen Xian, Wei Wu, and Dawei Song. <br>
-Preprint. [[arXiv]](https://arxiv.org/abs/2205.14570) <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2205.14570)[[code]](https://github.com/GeneZC/MiniDisc)[[blog]](https://zhuanlan.zhihu.com/p/572071788) <br>
 
 **Sparse Teachers Can Be Dense with Knowledge.** <br>
 Yi Yang\#, **Chen Zhang**\#, and Dawei Song.  <br>
@@ -112,7 +116,7 @@ In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2205.05461)[[poster]](./asset
 
 **Structural Bias For Aspect Sentiment Triplet Extraction.** <br>
 **Chen Zhang**, Lei Ren, Fang Ma, Jingang Wang, Wei Wu, and Dawei Song. <br>
-In **COLING 2022**. [[arXiv]](https://arxiv.org/abs/2209.00820)[[slides]](./assets/files/COLING2022_StructBias.pdf)[[code]](https://github.com/GeneZC/StructBias)[[data]](https://github.com/GeneZC/StructBias)
+In **COLING 2022**. [[arXiv]](https://arxiv.org/abs/2209.00820)[[slides]](./assets/files/COLING2022_StructBias.pdf)[[code]](https://github.com/GeneZC/StructBias)[[data]](https://github.com/GeneZC/StructBias)[[blog]](https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html)
 
 **<img src="./assets/imgs/dogetickets.png" width="25" height="15" alt="dogetickets" align=center/> Doge Tickets: Uncovering Domain-general Language Models by Playing Lottery Tickets.** <br>
 Yi Yang\#, **Chen Zhang**\#, Benyou Wang, and Dawei Song. <br> 
