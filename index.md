@@ -94,12 +94,22 @@ A large language model that reaches top-level performance on CLUE benchmark. <br
 ## Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/imgs/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
 \# indicates equal contributions.
 
+### Efficient Language Models
+
+**Task-agnostic Distillation of Encoder-Decoder Language Models.** <br>
+**Chen Zhang**, Yang Yang, Qiuchi Li, Jingang Wang, and Dawei Song. <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2305.12330)
+
 **Lifting the Curse of Capacity Gap in Distilling Language Models.** <br>
 **Chen Zhang**, Yang Yang, Jiahao Liu, Jingang Wang, Yunsen Xian, Benyou Wang, and Dawei Song.  <br>
 In **ACL 2023**. [[arXiv]](https://arxiv.org/abs/2305.12129)[[slides]](./assets/files/ACL2023_MiniMoE.pdf)[[code]](https://github.com/GeneZC/MiniMoE)
 
+**On Elastic Language Models.** <br>
+**Chen Zhang**, Benyou Wang, and Dawei Song. <br>
+In submission to TOIS.
+
 **MiniDisc: Minimal Distillation Schedule for Language Model Compression.** <br>
-**Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Yunsen Xian, Wei Wu, and Dawei Song. <br>
+**Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. <br>
 Preprint. [[arXiv]](https://arxiv.org/abs/2205.14570)[[code]](https://github.com/GeneZC/MiniDisc)[[blog]](https://zhuanlan.zhihu.com/p/572071788) <br>
 
 **Sparse Teachers Can Be Dense with Knowledge.** <br>
@@ -114,13 +124,19 @@ In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2210.04457)[[poster]](./asset
 **Chen Zhang**, Lei Ren, Jingang Wang, Wei Wu, and Dawei Song. <br>
 In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2205.05461)[[poster]](./assets/files/EMNLP2022_Glee.pdf)[[code]](https://github.com/GeneZC/Glee)
 
-**Structural Bias For Aspect Sentiment Triplet Extraction.** <br>
-**Chen Zhang**, Lei Ren, Fang Ma, Jingang Wang, Wei Wu, and Dawei Song. <br>
-In **COLING 2022**. [[arXiv]](https://arxiv.org/abs/2209.00820)[[slides]](./assets/files/COLING2022_StructBias.pdf)[[code]](https://github.com/GeneZC/StructBias)[[data]](https://github.com/GeneZC/StructBias)[[blog]](https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html)
-
 **<img src="./assets/imgs/dogetickets.png" width="25" height="15" alt="dogetickets" align=center/> Doge Tickets: Uncovering Domain-general Language Models by Playing Lottery Tickets.** <br>
 Yi Yang\#, **Chen Zhang**\#, Benyou Wang, and Dawei Song. <br> 
 In **NLPCC 2022, Best Paper Award**. [[arXiv]](https://arxiv.org/abs/2207.09638)[[slides]](./assets/files/NLPCC2022_DogeTickets.pdf)[[code]](https://github.com/Ylily1015/DogeTickets)
+
+### Opinion Mining
+
+**PyABSA: A Modularized Framework for Reproducible Aspect-based Sentiment Analysis.** <br>
+Heng Yang, **Chen Zhang**, and Ke Li. <br>
+In **CIKM 2023** Demo. [[arXiv]](https://arxiv.org/abs/2208.01368)[[code]](https://github.com/yangheng95/PyABSA) 
+
+**Structural Bias For Aspect Sentiment Triplet Extraction.** <br>
+**Chen Zhang**, Lei Ren, Fang Ma, Jingang Wang, Wei Wu, and Dawei Song. <br>
+In **COLING 2022**. [[arXiv]](https://arxiv.org/abs/2209.00820)[[slides]](./assets/files/COLING2022_StructBias.pdf)[[code]](https://github.com/GeneZC/StructBias)[[data]](https://github.com/GeneZC/StructBias)[[blog]](https://tech.meituan.com/2021/10/20/the-applications-of-sentiment-analysis-meituan.html)
 
 **Aspect-specific Context Modeling for Aspect-based Sentiment Analysis.** <br>
 Fang Ma, **Chen Zhang**, Bo Zhang, and Dawei Song. <br>
@@ -156,11 +172,13 @@ In **SIGIR 2019**. [[arXiv]](https://arxiv.org/abs/1909.10171)[[poster]](./asset
 
 ## Services
 
-Reviewer: ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI.
+Organizer: WSDM CUP 2024.
+
+Reviewer: ARR, ACL, EMNLP, NAACL, SIGIR, CIKM, AAAI.
 
 Secondary Reviewer: WSDM, ICTIR, TOIS.
 
-Conference Volunteer: EMNLP.
+Volunteer: EMNLP.
 
 ## Honors & Awards
 
