@@ -85,15 +85,15 @@ Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022
 
 ***MiniMA*** and ***MiniChat*** <br>
 A distilled language model aling with its instruction-tuned version that establish a new compute-performance pareto frontier among existing language models. <br>
-[[paper]](https://arxiv.org/abs/2311.07052)[[github]](https://github.com/GeneZC/MiniMA)[[huggingface-minima]](https://huggingface.co/GeneZC/MiniMA-3B)[[huggingface-minichat]](https://huggingface.co/GeneZC/MiniChat-3B)[[rank-openllm]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)[[rank-alpacaeval]](https://tatsu-lab.github.io/alpaca_eval)
+[[github]](https://github.com/GeneZC/MiniMA)[[huggingface-minima]](https://huggingface.co/GeneZC/MiniMA-3B)[[huggingface-minichat]](https://huggingface.co/GeneZC/MiniChat-3B)[[rank-openllm]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)[[rank-alpacaeval]](https://tatsu-lab.github.io/alpaca_eval)
 
 ***Phoenix*** <br>
 An instruction-following language model that is competitive with ChatGLM-6b. <br>
-[[paper]](https://arxiv.org/abs/2304.10453)[[github]](https://github.com/FreedomIntelligence/LLMZoo)[[huggingface]](https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b)[[rank]](https://www.superclueai.com/)[[news]](https://www.jiqizhixin.com/articles/2023-04-16-2)
+[[github]](https://github.com/FreedomIntelligence/LLMZoo)[[huggingface]](https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b)[[rank]](https://www.superclueai.com/)[[news]](https://www.jiqizhixin.com/articles/2023-04-16-2)
 
 ***WenJin*** <br>
 A large language model that reaches top-level performance on CLUE benchmark. <br>
-[[blog]](https://www.6aiq.com/article/1681621552327)[[rank]](https://cluebenchmarks.com/en/rank.html)
+[[rank]](https://cluebenchmarks.com/en/rank.html)
 
 ## Publications & Manuscripts [<img src="./assets/imgs/google.ico" width="22" height="22" alt="google" align=center/>](https://scholar.google.com/citations?user=IMwAXWcAAAAJ) [<img src="./assets/imgs/semantic.ico" width="22" height="22" alt="semantic" align=center/>](https://www.semanticscholar.org/author/Chen-Zhang/145107889) 
 \# indicates equal contributions.
@@ -118,7 +118,7 @@ In submission to TOIS. [[arXiv]](https://arxiv.org/abs/2311.07204)
 
 **MiniDisc: Minimal Distillation Schedule for Language Model Compression.** <br>
 **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. <br>
-Preprint. [[arXiv]](https://arxiv.org/abs/2205.14570)[[code]](https://github.com/GeneZC/MiniDisc)[[blog]](https://zhuanlan.zhihu.com/p/572071788) <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2205.14570)[[code]](https://github.com/GeneZC/MiniDisc) <br>
 
 **Sparse Teachers Can Be Dense with Knowledge.** <br>
 Yi Yang\#, **Chen Zhang**\#, and Dawei Song.  <br>
