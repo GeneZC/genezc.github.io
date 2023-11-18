@@ -10,6 +10,8 @@ My current research interests lie in the general area of natural language proces
 
 ## Recent Highlights
 
+Nov. 13rd, 2023. Our distilled language model [MiniMA](https://huggingface.co/GeneZC/MiniMA-3B) and its instruction-tuned version [MiniChat](https://huggingface.co/GeneZC/MiniChat-3B) have established a new compute-performance pareto frontier among exsiting language models.
+
 May 4th, 2023. One long paper got accepted to [ACL 2023](https://2023.aclweb.org/).
 
 Apr. 10th, 2023. Our instruction-following language model [*Phoenix*](https://github.com/FreedomIntelligence/LLMZoo) reached comparable performance to ChatGLM-6b.
@@ -19,8 +21,6 @@ Oct. 7th, 2022. Three long papers got accepted to [EMNLP 2022](https://2022.emnl
 Sep. 17th, 2022. *DogeTickets* received Best Paper Award at NLPCC 2022.
 
 Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022.org/).
-
-July 4th, 2022. Two regular papers, where I coauthored with the juniors, got accepted to [NLPCC 2022](http://tcci.ccf.org.cn/conference/2022/).
 
 ## Experiences
 
@@ -83,6 +83,10 @@ July 4th, 2022. Two regular papers, where I coauthored with the juniors, got acc
 
 ## Projects
 
+***MiniMA*** and ***MiniChat*** <br>
+A distilled language model aling with its instruction-tuned version that establish a new compute-performance pareto frontier among existing language models. <br>
+[[paper]](https://arxiv.org/abs/2311.07052)[[github]](https://github.com/GeneZC/MiniMA)[[huggingface-minima]](https://huggingface.co/GeneZC/MiniMA-3B)[[huggingface-minichat]](https://huggingface.co/GeneZC/MiniChat-3B)[[rank-openllm]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)[[rank-alpacaeval]](https://tatsu-lab.github.io/alpaca_eval)
+
 ***Phoenix*** <br>
 An instruction-following language model that is competitive with ChatGLM-6b. <br>
 [[paper]](https://arxiv.org/abs/2304.10453)[[github]](https://github.com/FreedomIntelligence/LLMZoo)[[huggingface]](https://huggingface.co/FreedomIntelligence/phoenix-inst-chat-7b)[[rank]](https://www.superclueai.com/)[[news]](https://www.jiqizhixin.com/articles/2023-04-16-2)
@@ -96,6 +100,10 @@ A large language model that reaches top-level performance on CLUE benchmark. <br
 
 ### Efficient Language Models
 
+**Towards the Law of Capacity Gap in Distilling Language Models.** <br>
+**Chen Zhang**, Dawei Song, Zheyu Ye, and Yan Gao. <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2311.07052)[[code]](https://github.com/GeneZC/MiniMA)
+
 **Task-agnostic Distillation of Encoder-Decoder Language Models.** <br>
 **Chen Zhang**, Yang Yang, Qiuchi Li, Jingang Wang, and Dawei Song. <br>
 Preprint. [[arXiv]](https://arxiv.org/abs/2305.12330)
@@ -106,7 +114,7 @@ In **ACL 2023**. [[arXiv]](https://arxiv.org/abs/2305.12129)[[slides]](./assets/
 
 **On Elastic Language Models.** <br>
 **Chen Zhang**, Benyou Wang, and Dawei Song. <br>
-In submission to TOIS.
+In submission to TOIS. [[arXiv]](https://arxiv.org/abs/2311.07204)
 
 **MiniDisc: Minimal Distillation Schedule for Language Model Compression.** <br>
 **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. <br>
