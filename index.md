@@ -6,7 +6,7 @@ layout: default
 
 I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ. I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP on large language models. You can contact me via chenzhang9702[AT]outlook[DOT]com.
 
-My current research interests lie in the general area of natural language processing, particularly efficient language models and language agents.
+My current research interests lie in the general area of natural language processing, particularly efficient language models and language agents. Prior to that, I was devoted to opinion mining and model generalization.
 
 ## Recent Highlights
 
@@ -124,17 +124,11 @@ Preprint. [[arXiv]](https://arxiv.org/abs/2205.14570)[[code]](https://github.com
 Yi Yang\#, **Chen Zhang**\#, and Dawei Song.  <br>
 In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2210.03923)[[poster]](./assets/files/EMNLP2022_StarK.pdf)[[code]](https://github.com/GeneZC/StarK)
 
-**XPrompt: Exploring the Extreme of Prompt Tuning.** <br>
-Fang Ma, **Chen Zhang**, Lei Ren, Jingang Wang, Qifan Wang, Wei Wu, Xiaojun Quan, and Dawei Song. <br>
-In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2210.04457)[[poster]](./assets/files/EMNLP2022_XPrompt.pdf)
+### Language Agents
 
-**Making Pretrained Language Models Good Long-tailed Learners.** <br>
-**Chen Zhang**, Lei Ren, Jingang Wang, Wei Wu, and Dawei Song. <br>
-In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2205.05461)[[poster]](./assets/files/EMNLP2022_Glee.pdf)[[code]](https://github.com/GeneZC/Glee)
-
-**<img src="./assets/imgs/dogetickets.png" width="25" height="15" alt="dogetickets" align=center/> Doge Tickets: Uncovering Domain-general Language Models by Playing Lottery Tickets.** <br>
-Yi Yang\#, **Chen Zhang**\#, Benyou Wang, and Dawei Song. <br> 
-In **NLPCC 2022, Best Paper Award**. [[arXiv]](https://arxiv.org/abs/2207.09638)[[slides]](./assets/files/NLPCC2022_DogeTickets.pdf)[[code]](https://github.com/Ylily1015/DogeTickets)
+**Phoenix: Democratizing ChatGPT across Languages.** <br>
+Zhihong Chen, Feng Jiang, Junying Chen, Tiannan Wang, Fei Yu, Guiming Chen, Hongbo Zhang, Juhao Liang, **Chen Zhang**, Zhiyi Zhang, Jianquan Li, Xiang Wan, Benyou Wang, and Haizhou Li. <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2304.10453)[[code]](https://github.com/FreedomIntelligence/LLMZoo)
 
 ### Opinion Mining
 
@@ -149,14 +143,6 @@ In **COLING 2022**. [[arXiv]](https://arxiv.org/abs/2209.00820)[[slides]](./asse
 **Aspect-specific Context Modeling for Aspect-based Sentiment Analysis.** <br>
 Fang Ma, **Chen Zhang**, Bo Zhang, and Dawei Song. <br>
 In **NLPCC 2022**. [[arXiv]](https://arxiv.org/abs/2207.08099)[[slides]](./assets/files/NLPCC2022_AspCon.pdf)[[data]](https://github.com/GeneZC/advABSA)
-
-**Adaptable Text Matching via Meta-Weight Regulator.** <br>
-Bo Zhang, **Chen Zhang**, Fang Ma, and Dawei Song. <br>
-In **SIGIR 2022**. [[arXiv]](https://arxiv.org/abs/2204.12668)[[paper]](https://dl.acm.org/doi/10.1145/3477495.3531932)[[slides]](./assets/files/SIGIR2022_MWR.pdf)
-
-**A Simple Baseline for Cross-domain Few-shot Text Classification.** <br>
-**Chen Zhang** and Dawei Song. <br>
-In **NLPCC 2021**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88480-2_56)[[slides]](./assets/files/NLPCC2021_XFew.pdf)[[code]](https://github.com/GeneZC/XFew)
 
 **Exploiting Position Bias for Robust Aspect Sentiment Classification.** <br>
 Fang Ma\#, **Chen Zhang**\#, and Dawei Song. <br>
@@ -177,6 +163,32 @@ In **EMNLP 2019**. [[arXiv]](https://arxiv.org/abs/1909.03477)[[slides]](./asset
 **Syntax-Aware Aspect-Level Sentiment Classification with Proximity-Weighted Convolution Network.** <br>
 **Chen Zhang**, Qiuchi Li, and Dawei Song. <br>
 In **SIGIR 2019**. [[arXiv]](https://arxiv.org/abs/1909.10171)[[poster]](./assets/files/SIGIR2019_PWCN.pdf)[[code]](https://github.com/GeneZC/PWCN)
+
+### Model Generalization
+
+**Modular Retrieval for Generalization and Interpretation.** <br>
+Juhao Liang, **Chen Zhang**, Zhengyang Tang, Jie Fu, Dawei Song, and Benyou Wang. <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2303.13419)[[code]](https://github.com/FreedomIntelligence/REMOP)
+
+**XPrompt: Exploring the Extreme of Prompt Tuning.** <br>
+Fang Ma, **Chen Zhang**, Lei Ren, Jingang Wang, Qifan Wang, Wei Wu, Xiaojun Quan, and Dawei Song. <br>
+In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2210.04457)[[poster]](./assets/files/EMNLP2022_XPrompt.pdf)
+
+**Making Pretrained Language Models Good Long-tailed Learners.** <br>
+**Chen Zhang**, Lei Ren, Jingang Wang, Wei Wu, and Dawei Song. <br>
+In **EMNLP 2022**. [[arXiv]](https://arxiv.org/abs/2205.05461)[[poster]](./assets/files/EMNLP2022_Glee.pdf)[[code]](https://github.com/GeneZC/Glee)
+
+**<img src="./assets/imgs/dogetickets.png" width="25" height="15" alt="dogetickets" align=center/> Doge Tickets: Uncovering Domain-general Language Models by Playing Lottery Tickets.** <br>
+Yi Yang\#, **Chen Zhang**\#, Benyou Wang, and Dawei Song. <br> 
+In **NLPCC 2022, Best Paper Award**. [[arXiv]](https://arxiv.org/abs/2207.09638)[[slides]](./assets/files/NLPCC2022_DogeTickets.pdf)[[code]](https://github.com/Ylily1015/DogeTickets)
+
+**Adaptable Text Matching via Meta-Weight Regulator.** <br>
+Bo Zhang, **Chen Zhang**, Fang Ma, and Dawei Song. <br>
+In **SIGIR 2022**. [[arXiv]](https://arxiv.org/abs/2204.12668)[[paper]](https://dl.acm.org/doi/10.1145/3477495.3531932)[[slides]](./assets/files/SIGIR2022_MWR.pdf)
+
+**A Simple Baseline for Cross-domain Few-shot Text Classification.** <br>
+**Chen Zhang** and Dawei Song. <br>
+In **NLPCC 2021**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88480-2_56)[[slides]](./assets/files/NLPCC2021_XFew.pdf)[[code]](https://github.com/GeneZC/XFew)
 
 ## Services
 
