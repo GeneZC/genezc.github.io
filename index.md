@@ -83,9 +83,13 @@ Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022
 
 ## Projects
 
-***MiniMA*** and ***MiniChat*** <br>
-A distilled language model aling with its instruction-tuned version that establish a new compute-performance pareto frontier among existing language models. <br>
-[[github]](https://github.com/GeneZC/MiniMA)[[huggingface-minima]](https://huggingface.co/GeneZC/MiniMA-3B)[[huggingface-minichat]](https://huggingface.co/GeneZC/MiniChat-3B)[[rank-openllm]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)[[rank-alpacaeval]](https://tatsu-lab.github.io/alpaca_eval)
+***MiniMA*** <br>
+A distilled language model established a new compute-performance pareto frontier among existing language models. <br>
+[[github]](https://github.com/GeneZC/MiniMA)[[huggingface]](https://huggingface.co/GeneZC/MiniMA-3B)[[rank]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
+***MiniChat*** <br>
+An instruction-following language model that achieves competitive performance with a small scale. <br>
+[[github]](https://github.com/GeneZC/MiniMA)[[huggingface]](https://huggingface.co/GeneZC/MiniChat-3B)[[rank]](https://tatsu-lab.github.io/alpaca_eval)
 
 ***Phoenix*** <br>
 An instruction-following language model that is competitive with ChatGLM-6b. <br>
