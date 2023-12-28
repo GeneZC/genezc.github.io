@@ -10,7 +10,9 @@ My current research interests lie in the general area of natural language proces
 
 ## Recent Highlights
 
-Nov. 13rd, 2023. Our distilled language model [MiniMA](https://huggingface.co/GeneZC/MiniMA-3B) and its instruction-tuned version [MiniChat](https://huggingface.co/GeneZC/MiniChat-3B) have established a new compute-performance pareto frontier among exsiting language models.
+Dec. 27th, 2023. *MiniMA* and *MiniChat* are lifted to [*MiniMA-2*](https://huggingface.co/GeneZC/MiniMA-2-3B) and [*MiniChat-2*](https://huggingface.co/GeneZC/MiniChat-2-3B) respectively. *MiniMA-2* together with *MiniMA* and other arts completes the compute-performance frontier and *MiniChat-2* surpasses Vicuna-7B on MT-Bench.
+
+Nov. 13rd, 2023. Our distilled language model [*MiniMA*](https://huggingface.co/GeneZC/MiniMA-3B) and its instruction-tuned version [*MiniChat*](https://huggingface.co/GeneZC/MiniChat-3B) have established a new compute-performance pareto frontier among exsiting language models.
 
 May 4th, 2023. One long paper got accepted to [ACL 2023](https://2023.aclweb.org/).
 
@@ -19,8 +21,6 @@ Apr. 10th, 2023. Our instruction-following language model [*Phoenix*](https://gi
 Oct. 7th, 2022. Three long papers got accepted to [EMNLP 2022](https://2022.emnlp.org/).
 
 Sep. 17th, 2022. *DogeTickets* received Best Paper Award at NLPCC 2022.
-
-Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022.org/).
 
 ## Experiences
 
@@ -83,11 +83,11 @@ Aug. 16th, 2022. One long paper got accepted to [COLING 2022](https://coling2022
 
 ## Projects
 
-***MiniMA*** <br>
+***MiniMA, MiniMA-2*** <br>
 A distilled language model established a new compute-performance pareto frontier among existing language models. <br>
 [[github]](https://github.com/GeneZC/MiniMA)[[huggingface]](https://huggingface.co/GeneZC/MiniMA-3B)[[rank]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
-***MiniChat*** <br>
+***MiniChat, MiniChat-2*** <br>
 An instruction-following language model that achieves competitive performance with a small scale. <br>
 [[github]](https://github.com/GeneZC/MiniMA)[[huggingface]](https://huggingface.co/GeneZC/MiniChat-3B)[[rank]](https://tatsu-lab.github.io/alpaca_eval)
 
