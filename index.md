@@ -4,11 +4,17 @@ layout: default
 
 ## About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ. I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP on large language models. You can contact me via chenzhang9702[AT]outlook[DOT]com.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ. I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP on large language models.
 
 My current research interests lie in the general area of natural language processing, particularly efficient language models and language agents. Prior to that, I was devoted to opinion mining and model generalization.
 
+I am on the <b><font color=red>job market 2024-2025</font></b> and actively seeking both academic and industrial positions. Drop me an email via chenzhang9702[AT]outlook[DOT]com if you are interested in collaborating with me.
+
 ## Recent Highlights
+
+Feb. 19th, 2024. Two long papers got accepted to [COLING 2024](https://lrec-coling-2024.org/).
+
+Jan. 18th, 2024. One long paper got accepted to [EACL 2024](https://2024.eacl.org/).
 
 Dec. 27th, 2023. *MiniMA* and *MiniChat* are lifted to [*MiniMA-2*](https://huggingface.co/GeneZC/MiniMA-2-3B) and [*MiniChat-2*](https://huggingface.co/GeneZC/MiniChat-2-3B) respectively. *MiniMA-2* together with *MiniMA* and other arts completes the compute-performance frontier and *MiniChat-2* surpasses Vicuna-7B on MT-Bench.
 
@@ -18,9 +24,7 @@ May 4th, 2023. One long paper got accepted to [ACL 2023](https://2023.aclweb.org
 
 Apr. 10th, 2023. Our instruction-following language model [*Phoenix*](https://github.com/FreedomIntelligence/LLMZoo) reached comparable performance to ChatGLM-6b.
 
-Oct. 7th, 2022. Three long papers got accepted to [EMNLP 2022](https://2022.emnlp.org/).
-
-Sep. 17th, 2022. *DogeTickets* received Best Paper Award at NLPCC 2022.
+Oct. 7th, 2022. Three long papers got accepted to EMNLP 2022.
 
 ## Experiences
 
@@ -34,6 +38,15 @@ Sep. 17th, 2022. *DogeTickets* received Best Paper Award at NLPCC 2022.
 			<div class="desc">Dual M.Eng.-Ph.D. in Computer Science</div>
 		</div>
 	</li>
+<!-- 	<li>
+		<div class="direction-l">
+			<div class="flag-wrapper">
+				<span class="flag">Xiaohongshu NLP</span>
+				<span class="time-wrapper"><span class="time">Mar. 2023 - Present</span></span>
+			</div>
+			<div class="desc">Algorithm Intern on Instruction-following Language Models</div>
+		</div>
+	</li> -->
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -108,9 +121,13 @@ A large language model that reaches top-level performance on CLUE benchmark. <br
 **Chen Zhang**, Dawei Song, Zheyu Ye, and Yan Gao. <br>
 Preprint. [[arXiv]](https://arxiv.org/abs/2311.07052)[[code]](https://github.com/GeneZC/MiniMA)
 
+**How Speculative Could Speculative Decoding Be?** <br>
+Zhuorui Liu, **Chen Zhang**, and Dawei Song. <br>
+In **COLING 2024**.
+
 **Task-agnostic Distillation of Encoder-Decoder Language Models.** <br>
 **Chen Zhang**, Yang Yang, Qiuchi Li, Jingang Wang, and Dawei Song. <br>
-Preprint. [[arXiv]](https://arxiv.org/abs/2305.12330)
+In **COLING 2024**. [[arXiv]](https://arxiv.org/abs/2305.12330)
 
 **Lifting the Curse of Capacity Gap in Distilling Language Models.** <br>
 **Chen Zhang**, Yang Yang, Jiahao Liu, Jingang Wang, Yunsen Xian, Benyou Wang, and Dawei Song.  <br>
@@ -122,7 +139,7 @@ In submission to TOIS. [[arXiv]](https://arxiv.org/abs/2311.07204)
 
 **MiniDisc: Minimal Distillation Schedule for Language Model Compression.** <br>
 **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. <br>
-Preprint. [[arXiv]](https://arxiv.org/abs/2205.14570)[[code]](https://github.com/GeneZC/MiniDisc) <br>
+In **EACL 2024** Findings. [[arXiv]](https://arxiv.org/abs/2205.14570)[[code]](https://github.com/GeneZC/MiniDisc) <br>
 
 **Sparse Teachers Can Be Dense with Knowledge.** <br>
 Yi Yang\#, **Chen Zhang**\#, and Dawei Song.  <br>
