@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ. I also recently collaborate with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP on large language models.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ.
 
 My current research interests lie in the general area of natural language processing, particularly efficient language models and language agents. Prior to that, I was devoted to opinion mining and model generalization.
 
@@ -38,15 +38,15 @@ Oct. 7th, 2022. Three long papers got accepted to EMNLP 2022.
 			<div class="desc">Dual M.Eng.-Ph.D. in Computer Science</div>
 		</div>
 	</li>
-<!-- 	<li>
+	<li>
 		<div class="direction-l">
 			<div class="flag-wrapper">
 				<span class="flag">Xiaohongshu NLP</span>
 				<span class="time-wrapper"><span class="time">Mar. 2023 - Present</span></span>
 			</div>
-			<div class="desc">Algorithm Intern on Instruction-following Language Models</div>
+			<div class="desc">Algorithm Intern on Efficient Language Models</div>
 		</div>
-	</li> -->
+	</li>
 	<li>
 		<div class="direction-r">
 			<div class="flag-wrapper">
@@ -121,13 +121,13 @@ A large language model that reaches top-level performance on CLUE benchmark. <br
 **Chen Zhang**, Dawei Song, Zheyu Ye, and Yan Gao. <br>
 Preprint. [[arXiv]](https://arxiv.org/abs/2311.07052)[[code]](https://github.com/GeneZC/MiniMA)
 
-**How Speculative Could Speculative Decoding Be?** <br>
+**How Speculative Can Speculative Decoding Be?** <br>
 Zhuorui Liu, **Chen Zhang**, and Dawei Song. <br>
-In **COLING 2024**.
+In **COLING 2024**. [[paper]](https://aclanthology.org/2024.lrec-main.725)[[poster]](./assets/files/COLING2024_HowSpec.pdf)[[code]](https://github.com/ZhuoruiLiu12/SpecGame)
 
 **Task-agnostic Distillation of Encoder-Decoder Language Models.** <br>
 **Chen Zhang**, Yang Yang, Qiuchi Li, Jingang Wang, and Dawei Song. <br>
-In **COLING 2024**. [[arXiv]](https://arxiv.org/abs/2305.12330)
+In **COLING 2024**. [[arXiv]](https://arxiv.org/abs/2305.12330)[[poster]](./assets/files/COLING2024_MiniEnD.pdf)[[code]](https://github.com/GeneZC/MiniEnD)
 
 **Lifting the Curse of Capacity Gap in Distilling Language Models.** <br>
 **Chen Zhang**, Yang Yang, Jiahao Liu, Jingang Wang, Yunsen Xian, Benyou Wang, and Dawei Song.  <br>
@@ -137,9 +137,9 @@ In **ACL 2023**. [[arXiv]](https://arxiv.org/abs/2305.12129)[[slides]](./assets/
 **Chen Zhang**, Benyou Wang, and Dawei Song. <br>
 In submission to TOIS. [[arXiv]](https://arxiv.org/abs/2311.07204)
 
-**MiniDisc: Minimal Distillation Schedule for Language Model Compression.** <br>
+**Minimal Distillation Schedule for Extreme Language Model Compression.** <br>
 **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. <br>
-In **EACL 2024** Findings. [[arXiv]](https://arxiv.org/abs/2205.14570)[[code]](https://github.com/GeneZC/MiniDisc) <br>
+In **EACL 2024** Findings. [[arXiv]](https://arxiv.org/abs/2205.14570)[[poster]](./assets/files/EACL2024_MiniDisc.pdf)[[code]](https://github.com/GeneZC/MiniDisc) <br>
 
 **Sparse Teachers Can Be Dense with Knowledge.** <br>
 Yi Yang\#, **Chen Zhang**\#, and Dawei Song.  <br>
