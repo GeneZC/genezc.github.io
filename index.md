@@ -12,6 +12,8 @@ I am on the <b><font color=red>job market 2024-2025</font></b> and actively seek
 
 ## Recent Highlights
 
+June 28th, 2024. One paper got accepted to TOIS.
+
 Feb. 19th, 2024. Two long papers got accepted to [COLING 2024](https://lrec-coling-2024.org/).
 
 Jan. 18th, 2024. One long paper got accepted to [EACL 2024](https://2024.eacl.org/).
@@ -23,8 +25,6 @@ Nov. 13rd, 2023. Our distilled language model [*MiniMA*](https://huggingface.co/
 May 4th, 2023. One long paper got accepted to [ACL 2023](https://2023.aclweb.org/).
 
 Apr. 10th, 2023. Our instruction-following language model [*Phoenix*](https://github.com/FreedomIntelligence/LLMZoo) reached comparable performance to ChatGLM-6b.
-
-Oct. 7th, 2022. Three long papers got accepted to EMNLP 2022.
 
 ## Experiences
 
@@ -135,7 +135,7 @@ In **ACL 2023**. [[arXiv]](https://arxiv.org/abs/2305.12129)[[slides]](./assets/
 
 **On Elastic Language Models.** <br>
 **Chen Zhang**, Benyou Wang, and Dawei Song. <br>
-In submission to TOIS. [[arXiv]](https://arxiv.org/abs/2311.07204)
+In TOIS. [[arXiv]](https://arxiv.org/abs/2311.07204)
 
 **Minimal Distillation Schedule for Extreme Language Model Compression.** <br>
 **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. <br>
