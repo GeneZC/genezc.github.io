@@ -12,6 +12,8 @@ I am on the <b><font color=red>job market 2024-2025</font></b> and actively seek
 
 ## Recent Highlights
 
+July 9th, 2024. *MiniMA* family is now completed with released MoE model [*MiniMix*](https://huggingface.co/GeneZC/MiniMix-2_4x3B) and long-context model [*MiniLoong*](https://huggingface.co/GeneZC/MiniLoong-3B).
+
 June 28th, 2024. One paper got accepted to TOIS.
 
 Feb. 19th, 2024. Two long papers got accepted to [COLING 2024](https://lrec-coling-2024.org/).
@@ -23,8 +25,6 @@ Dec. 27th, 2023. *MiniMA* and *MiniChat* are lifted to [*MiniMA-2*](https://hugg
 Nov. 13rd, 2023. Our distilled language model [*MiniMA*](https://huggingface.co/GeneZC/MiniMA-3B) and its instruction-tuned version [*MiniChat*](https://huggingface.co/GeneZC/MiniChat-3B) have established a new compute-performance pareto frontier among exsiting language models.
 
 May 4th, 2023. One long paper got accepted to [ACL 2023](https://2023.aclweb.org/).
-
-Apr. 10th, 2023. Our instruction-following language model [*Phoenix*](https://github.com/FreedomIntelligence/LLMZoo) reached comparable performance to ChatGLM-6b.
 
 ## Experiences
 
@@ -96,8 +96,8 @@ Apr. 10th, 2023. Our instruction-following language model [*Phoenix*](https://gi
 
 ## Projects
 
-***MiniMA, MiniMA-2*** <br>
-A distilled language model established a new compute-performance pareto frontier among existing language models. <br>
+***MiniMA, MiniMA-2, MiniMix, MiniLoong*** <br>
+A distilled language model family established a new compute-performance pareto frontier among existing language models. <br>
 [[github]](https://github.com/GeneZC/MiniMA)[[huggingface]](https://huggingface.co/GeneZC/MiniMA-3B)[[rank]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ***MiniChat, MiniChat-2*** <br>
@@ -117,6 +117,10 @@ A large language model that reaches top-level performance on CLUE benchmark. <br
 
 ### Efficient Language Models
 
+**Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models** <br>
+**Chen Zhang**, Zhuorui Liu, Hanqing Zhang, and Dawei Song. <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2404.14897)
+
 **Towards the Law of Capacity Gap in Distilling Language Models.** <br>
 **Chen Zhang**, Dawei Song, Zheyu Ye, and Yan Gao. <br>
 Preprint. [[arXiv]](https://arxiv.org/abs/2311.07052)[[code]](https://github.com/GeneZC/MiniMA)
@@ -135,7 +139,7 @@ In **ACL 2023**. [[arXiv]](https://arxiv.org/abs/2305.12129)[[slides]](./assets/
 
 **On Elastic Language Models.** <br>
 **Chen Zhang**, Benyou Wang, and Dawei Song. <br>
-In TOIS. [[arXiv]](https://arxiv.org/abs/2311.07204)
+In **TOIS**. [[arXiv]](https://arxiv.org/abs/2311.07204)
 
 **Minimal Distillation Schedule for Extreme Language Model Compression.** <br>
 **Chen Zhang**, Yang Yang, Qifan Wang, Jiahao Liu, Jingang Wang, Wei Wu, and Dawei Song. <br>
