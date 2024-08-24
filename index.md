@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm), and closely collaborate with [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH and [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ.
+I am currently a Ph.D. student at Beijing Institute of Technology (BIT), where I am advised by [Prof. Dawei Song](http://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm). I collaborate closely with [Prof. Benyou Wang](https://wabyking.github.io/old) from CUHK-SZ on efficient language models and [Prof. Qiuchi Li](https://qiuchili.github.io) from UCPH on structural bias. I previously worked closely with [Dr. Jingang Wang](https://sites.google.com/site/bitwjg/) from Meituan NLP and [Dr. Qifan Wang](https://wqfcr.github.io/) from Meta AI on large language models. I also enjoyed building structure-grounded language models with [Binyuan Hui](https://huybery.github.io/) from Alibaba.
 
 My current research interests lie in the general area of natural language processing, particularly efficient language models and language agents. Prior to that, I was devoted to opinion mining and model generalization.
 
