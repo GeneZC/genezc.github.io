@@ -14,6 +14,8 @@ I am on the <b><font color=red>job market 2024-2025</font></b> and actively seek
 
 Sep. 5th, 2024. [*LongLLaVa*](https://huggingface.co/FreedomIntelligence/LongLLaVA) is released to become the first multi-modal language model that could maximally process over 1,000 images with only one Nvidia A100.
 
+July 25th, Aug. 8th, 2024. Invited to give talks respectively on [long-context efficiency](./assets/files/Li_Auto_Long_context_Efficiency.pdf) at Li Auto and [democratization of LLMs](./assets/files/ByteDance_Research_Democratization_LLMs.pdf) at ByteDance Research.
+
 July 9th, 2024. *MiniMA* family is now completed with released MoE model [*MiniMix*](https://huggingface.co/GeneZC/MiniMix-2_4x3B) and long-context model [*MiniLoong*](https://huggingface.co/GeneZC/MiniLoong-3B).
 
 June 28th, 2024. One paper got accepted to TOIS.
@@ -23,8 +25,6 @@ Feb. 19th, 2024. Two long papers got accepted to [COLING 2024](https://lrec-coli
 Jan. 18th, 2024. One long paper got accepted to [EACL 2024](https://2024.eacl.org/).
 
 Dec. 27th, 2023. *MiniMA* and *MiniChat* are lifted to [*MiniMA-2*](https://huggingface.co/GeneZC/MiniMA-2-3B) and [*MiniChat-2*](https://huggingface.co/GeneZC/MiniChat-2-3B) respectively. *MiniMA-2* together with *MiniMA* and other arts completes the compute-performance frontier and *MiniChat-2* surpasses Vicuna-7B on MT-Bench.
-
-Nov. 13rd, 2023. Our distilled language model [*MiniMA*](https://huggingface.co/GeneZC/MiniMA-3B) and its instruction-tuned version [*MiniChat*](https://huggingface.co/GeneZC/MiniChat-3B) have established a new compute-performance pareto frontier among exsiting language models.
 
 ## Experiences
 
@@ -222,6 +222,12 @@ In **SIGIR 2022**. [[arXiv]](https://arxiv.org/abs/2204.12668)[[paper]](https://
 **A Simple Baseline for Cross-domain Few-shot Text Classification.** <br>
 **Chen Zhang** and Dawei Song. <br>
 In **NLPCC 2021**. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-88480-2_56)[[slides]](./assets/files/NLPCC2021_XFew.pdf)[[code]](https://github.com/GeneZC/XFew)
+
+## Talks
+
+**On Long-context Efficiency** at Li Auto. 2024/7/25. [[slides]](./assets/files/Li_Auto_Long_context_Efficiency.pdf)
+
+**Democratization of LLMs** at ByteDance Research. 2024/8/8. [[slides]](./assets/files/ByteDance_Research_Democratization_LLMs.pdf)
 
 ## Services
 
