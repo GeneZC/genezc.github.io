@@ -12,6 +12,8 @@ I am on the <b><font color=red>job market 2024-2025</font></b> and actively seek
 
 ## Recent Highlights
 
+Sep. 5th, 2024. [*LongLLaVa*](https://huggingface.co/FreedomIntelligence/LongLLaVA) is released to become the first multi-modal language model that could maximally process over 1,000 images with only one Nvidia A100.
+
 July 9th, 2024. *MiniMA* family is now completed with released MoE model [*MiniMix*](https://huggingface.co/GeneZC/MiniMix-2_4x3B) and long-context model [*MiniLoong*](https://huggingface.co/GeneZC/MiniLoong-3B).
 
 June 28th, 2024. One paper got accepted to TOIS.
@@ -23,8 +25,6 @@ Jan. 18th, 2024. One long paper got accepted to [EACL 2024](https://2024.eacl.or
 Dec. 27th, 2023. *MiniMA* and *MiniChat* are lifted to [*MiniMA-2*](https://huggingface.co/GeneZC/MiniMA-2-3B) and [*MiniChat-2*](https://huggingface.co/GeneZC/MiniChat-2-3B) respectively. *MiniMA-2* together with *MiniMA* and other arts completes the compute-performance frontier and *MiniChat-2* surpasses Vicuna-7B on MT-Bench.
 
 Nov. 13rd, 2023. Our distilled language model [*MiniMA*](https://huggingface.co/GeneZC/MiniMA-3B) and its instruction-tuned version [*MiniChat*](https://huggingface.co/GeneZC/MiniChat-3B) have established a new compute-performance pareto frontier among exsiting language models.
-
-May 4th, 2023. One long paper got accepted to [ACL 2023](https://2023.aclweb.org/).
 
 ## Experiences
 
@@ -96,8 +96,12 @@ May 4th, 2023. One long paper got accepted to [ACL 2023](https://2023.aclweb.org
 
 ## Projects
 
+***LongLLaVa*** <br>
+A hybrid-architecture multi-modal language model that becomes the first one who can process over 1,000 images with only one Nvidia A100. <br>
+[[huggingface]](https://huggingface.co/FreedomIntelligence/LongLLaVA)
+
 ***MiniMA, MiniMA-2, MiniMix, MiniLoong*** <br>
-A distilled language model family established a new compute-performance pareto frontier among existing language models. <br>
+A distilled language model family that establishes a new compute-performance pareto frontier among existing language models. <br>
 [[github]](https://github.com/GeneZC/MiniMA)[[huggingface]](https://huggingface.co/GeneZC/MiniMA-3B)[[rank]](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ***MiniChat, MiniChat-2*** <br>
@@ -116,6 +120,10 @@ A large language model that reaches top-level performance on CLUE benchmark. <br
 \# indicates equal contributions.
 
 ### Efficient Language Models
+
+**LongLLaVA: Scaling Multi-modal LLMs to 1,000 Images Efficiently via Hybrid Architecture** <br>
+Xidong Wang, Dingjie Song, Shunian Chen, **Chen Zhang** and Benyou Wang. <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2409.02889)[[code]](https://github.com/FreedomIntelligence/LongLLaVA)
 
 **Beyond the Speculative Game: A Survey of Speculative Execution in Large Language Models** <br>
 **Chen Zhang**, Zhuorui Liu, Hanqing Zhang, and Dawei Song. <br>
