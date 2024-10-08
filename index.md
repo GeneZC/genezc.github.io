@@ -12,7 +12,7 @@ I am on the <b><font color=red>job market 2024-2025</font></b> and actively seek
 
 ## Recent Highlights
 
-Sep. 5th, 2024. [*LongLLaVa*](https://huggingface.co/FreedomIntelligence/LongLLaVA) is released to become the first multi-modal language model that could maximally process over 1,000 images with only one Nvidia A100.
+Sep. 5th, 2024. [*LongLLaVA*](https://huggingface.co/FreedomIntelligence/LongLLaVA) is released to become the first large multi-modal model that could maximally process over 1,000 images with only one Nvidia A100.
 
 July 25th, Aug. 8th, 2024. Invited to give talks respectively on [long-context efficiency](./assets/files/Li_Auto_Long_context_Efficiency.pdf) at Li Auto and [democratization of LLMs](./assets/files/ByteDance_Research_Democratization_LLMs.pdf) at ByteDance Research.
 
@@ -96,8 +96,8 @@ Dec. 27th, 2023. *MiniMA* and *MiniChat* are lifted to [*MiniMA-2*](https://hugg
 
 ## Projects
 
-***LongLLaVa*** <br>
-A hybrid-architecture multi-modal language model that becomes the first one who can process over 1,000 images with only one Nvidia A100. <br>
+***LongLLaVA*** <br>
+A hybrid-architecture large multi-modal model that becomes the first one who can process over 1,000 images with only one Nvidia A100. <br>
 [[huggingface]](https://huggingface.co/FreedomIntelligence/LongLLaVA)
 
 ***MiniMA, MiniMA-2, MiniMix, MiniLoong*** <br>
