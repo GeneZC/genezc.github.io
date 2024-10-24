@@ -121,6 +121,10 @@ A large language model that reaches top-level performance on CLUE benchmark. <br
 
 ### Efficient Language Models
 
+**MoDification: Mixture of Depths Made Easy** <br>
+**Chen Zhang**, Meizhi Zhong, Qimeng Wang, Xuantao Lu, Zheyu Ye, Chengqiang Lu, Yan Gao, Yao Hu, Kehai Chen, Min Zhang, and Dawei Song. <br>
+Preprint. [[arXiv]](https://arxiv.org/abs/2410.14268)
+
 **LongLLaVA: Scaling Multi-modal LLMs to 1,000 Images Efficiently via Hybrid Architecture** <br>
 Xidong Wang, Dingjie Song, Shunian Chen, **Chen Zhang** and Benyou Wang. <br>
 Preprint. [[arXiv]](https://arxiv.org/abs/2409.02889)[[code]](https://github.com/FreedomIntelligence/LongLLaVA)
